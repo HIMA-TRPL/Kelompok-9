@@ -3,7 +3,7 @@
 ## 👤 I. DATA DIRI MAHASISWA BARU
 * **Nama Lengkap:** Raizzan Ulayya Taqqi
 * **NIM:** 264311055
-* **TTL:** Ngawi, 21 Oktober
+* **TTL:** Ngawi, 01 Oktober
 * **Nomer Handphone:** 087778962411
 * **Nama Kelompok:** Kelompok 9 RAILS
 * **Asal Daerah:** Kota Madiun
