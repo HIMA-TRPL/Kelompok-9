@@ -96,7 +96,16 @@
 * **Asal Sekolah:** SMAN 1 SUKOMORO
 * **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
 
-
+### [06] 264311052 - NAZRIL DESTA ADHANDA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_Nazril.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NAZRIL DESTA ADHANDA
+* **NIM:** 264311052
+* **TTL:** MADIUN, 20 DESEMBER 2007
+* **Nomer Handphone:** 085812383955
+* **Nama Kelompok:** REACT
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMAN 1 DAGANGAN
+* **Fun Fact:** rispek bgtt
 ---
 
 ## 🏫 Kelas 1C
