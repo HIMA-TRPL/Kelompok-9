@@ -106,6 +106,17 @@
 * **Asal Daerah:** KAB.MADIUN
 * **Asal Sekolah:** SMAN 1 DAGANGAN
 * **Fun Fact:** rispek bgtt
+
+### [07] 264311038 - ARDHAN IRSYAD MAULANA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_Nazril.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ARDHAN IRSYAD MAULANA
+* **NIM:** 264311038
+* **TTL:** KOTA MADIUN, 16 JUNI 2007
+* **Nomer Handphone:** 081230448224
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** MADIUN
+* **Asal Sekolah:** MAN 1 KOTA MADIUN
+* **Fun Fact:** GA SUKA NGOMONG KASAR
 ---
 
 ## 🏫 Kelas 1C
