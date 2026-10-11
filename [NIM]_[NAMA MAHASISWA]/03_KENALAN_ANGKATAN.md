@@ -117,6 +117,17 @@
 * **Asal Daerah:** MADIUN
 * **Asal Sekolah:** MAN 1 KOTA MADIUN
 * **Fun Fact:** GA SUKA NGOMONG KASAR
+
+### [08] 264311031 - AHMAD MUJADID MUSYAFI'I 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_Jadid.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AHMAD MUJADID MUSYAFI'I 
+* **NIM:** 264311031
+* **TTL:** MAGETAN, 9 DESEMBER 2007
+* **Nomer Handphone:** 085253131038
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 KARAS
+* **Fun Fact:** gk kuat makan makanan pedas
 ---
 
 ## 🏫 Kelas 1C
