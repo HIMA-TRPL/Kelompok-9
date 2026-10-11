@@ -8,4 +8,4 @@
 * **Nama Kelompok:** Kelompok 9 RAILS
 * **Asal Daerah:** Madiun
 * **Asal Sekolah:** SMAN 2 Kota Madiun
-* **Fun Fact:** info iem bassnya mendut mendut
+* **Fun Fact:** malas merah
