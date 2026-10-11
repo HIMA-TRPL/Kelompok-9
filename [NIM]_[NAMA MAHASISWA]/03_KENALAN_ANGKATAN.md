@@ -75,7 +75,7 @@
 * **Fun Fact:** GA SUKA NGOMONG KASAR
 
 ### [04] 264311031 -AHMAD MUJADID MUSYAFI'I 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_Ardhan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_Jadid.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AHMAD MUJADID MUSYAFI'I 
 * **NIM:** 264311031
 * **TTL:** MAGETAN, 9 DESEMBER 2007
