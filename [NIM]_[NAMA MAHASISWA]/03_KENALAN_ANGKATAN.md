@@ -84,6 +84,19 @@
 * **Asal Daerah:** KOTA MADIUN
 * **Asal Sekolah:** SMAN 5 NGLAMES
 * **Fun Fact:** gak suka makan pedas
+
+### [05] 264311049 - MUHAMMAD MAHLAYAN 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049_Mahlayan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MUHAMMAD MAHLAYAN
+* **NIM:** 264311049
+* **TTL:** Magetan, 1 januari 2007
+* **Nomer Handphone:** 081994311889
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 SUKOMORO
+* **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
+
+
 ---
 
 ## 🏫 Kelas 1C
