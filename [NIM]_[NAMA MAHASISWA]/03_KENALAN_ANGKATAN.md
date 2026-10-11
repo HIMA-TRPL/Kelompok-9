@@ -63,16 +63,16 @@
 * **Asal Sekolah:** SMAN 1 Dagangan
 * **Fun Fact:** rispek bgtt
 
-### [06] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [03] 264311038 - ARDHAN IRSYAD MAULANA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_Ardhan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ARDHAN IRSYAD MAULANA
+* **NIM:** 264311038
+* **TTL:** KOTA MADIUN, 16 JUNI 2007
+* **Nomer Handphone:** 081230448224
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** KOTA MADIUN, 16 JUNI 2007
+* **Asal Sekolah:** MAN 1 KOTA MADIUN
+* **Fun Fact:** GA SUKA NGOMONG KASAR
 
 ---
 
