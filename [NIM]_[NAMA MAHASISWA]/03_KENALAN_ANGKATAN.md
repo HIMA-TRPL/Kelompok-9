@@ -41,7 +41,7 @@
 
 ## 🏫 Kelas 1B
 
-### [04] [NIM] - Roefando Adji Ramadhan 
+### [04] 264311057 - Roefando Adji Ramadhan 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057_Roefando.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan 
 * **NIM:** 264311057
@@ -52,16 +52,16 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** pecandu kopi akut
 
-### [05] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [05] 264311056 - RESTU PRAYOGA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056_Restu.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RESTU PRAYOGA
+* **NIM:** 264311056
+* **TTL:** PONOROGO, 19 JANUARI 2008
+* **Nomer Handphone:** 083134846000
+* **Nama Kelompok:** ANGULAR
+* **Asal Daerah:** KAB,PONOROGO
+* **Asal Sekolah:** SMKN1 JENANGAN PONOROGO
+* **Fun Fact:** FANS KING EMYU
 
 ### [06] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
