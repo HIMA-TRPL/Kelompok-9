@@ -41,7 +41,7 @@
 
 ## 🏫 Kelas 1B
 
-### [04] 264311057 - Roefando Adji Ramadhan 
+### [01] 264311057 - Roefando Adji Ramadhan 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057_Roefando.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan 
 * **NIM:** 264311057
@@ -52,7 +52,7 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** pecandu kopi akut
 
-### [05] 264311056 - RESTU PRAYOGA
+### [02] 264311056 - RESTU PRAYOGA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056_Restu.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RESTU PRAYOGA
 * **NIM:** 264311056
@@ -63,7 +63,7 @@
 * **Asal Sekolah:** SMKN1 JENANGAN PONOROGO
 * **Fun Fact:** FANS KING EMYU
 
-### [06] 264311033 - AKBAR PUTRA PRATAMA
+### [03] 264311033 - AKBAR PUTRA PRATAMA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_Akbar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AKBAR PUTRA PRATAMA
 * **NIM:** 264311033
@@ -74,6 +74,16 @@
 * **Asal Sekolah:** SMKN 03 KOTA MADIUN
 * **Fun Fact:** Gmpang tidur
 
+### [04] 264311055 - RAIZZAN ULAYYA TAQQI 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055_Raizzan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAIZZAN ULAYYA TAQQI 
+* **NIM:** 264311055
+* **TTL:** NGAWI, 01 OKTOBER 2007
+* **Nomer Handphone:** 087778962411
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KOTA MADIUN
+* **Asal Sekolah:** SMAN 5 NGLAMES
+* **Fun Fact:** gak suka makan pedas
 ---
 
 ## 🏫 Kelas 1C
