@@ -52,16 +52,16 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** pecandu kopi akut
 
-### [05] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [02] 264311052 - NAZRIL DESTA ADHANDA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_Nazril.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NAZRIL DESTA ADHANDA
+* **NIM:** 264311052
+* **TTL:** MADIUN, 20 DESEMBER 2007
+* **Nomer Handphone:** 085812383955
+* **Nama Kelompok:** REACT
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMAN 1 Dagangan
+* **Fun Fact:** rispek bgtt
 
 ### [06] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
