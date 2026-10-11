@@ -42,7 +42,7 @@
 ## 🏫 Kelas 1B
 
 ### [04] [NIM] - Roefando Adji Ramadhan 
-* <img src="assets/MAHASISWA_BARU/264311057_Roefando Adji Ramadhan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/264311057_Roefando Adji Ramadhan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan 
 * **NIM:** 264311057
 * **TTL:** JAKARTA, 10 OKTOBER 2007
