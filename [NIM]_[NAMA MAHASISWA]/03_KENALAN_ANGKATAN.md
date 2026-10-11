@@ -70,9 +70,20 @@
 * **TTL:** KOTA MADIUN, 16 JUNI 2007
 * **Nomer Handphone:** 081230448224
 * **Nama Kelompok:** SVELTE
-* **Asal Daerah:** KOTA MADIUN, 16 JUNI 2007
+* **Asal Daerah:** KOTA MADIUN
 * **Asal Sekolah:** MAN 1 KOTA MADIUN
 * **Fun Fact:** GA SUKA NGOMONG KASAR
+
+### [04] 264311031 -AHMAD MUJADID MUSYAFI'I 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_Ardhan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AHMAD MUJADID MUSYAFI'I 
+* **NIM:** 264311031
+* **TTL:** MAGETAN, 9 DESEMBER 2007
+* **Nomer Handphone:** 085253131038
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** MAN 1 KOTA MADIUN
+* **Fun Fact:** gk kuat makan makanan pedas
 
 ---
 
