@@ -129,7 +129,7 @@
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** gk kuat makan makanan pedas
 
-### [08] 264311041 - FAUZAN WISAM FALAHUL BASHIROH
+### [09] 264311041 - FAUZAN WISAM FALAHUL BASHIROH
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311041_Fauzan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FAUZAN WISAM FALAHUL BASHIROH
 * **NIM:** 264311041
