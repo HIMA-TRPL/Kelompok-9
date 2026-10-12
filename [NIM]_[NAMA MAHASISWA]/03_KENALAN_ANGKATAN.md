@@ -283,6 +283,17 @@
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** suka makan tapi malas ngunyah 
 
+### [22] 264311036 - ANNISA NIMASTURNA MEYSARAHMA  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036_Annisa Nimasturna.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANNISA NIMASTURNA MEYSARAHMA
+* **NIM:** 264311036
+* **TTL:** KOTA MADIUN, 07 MEI 2007
+* **Nomer Handphone:** 081958016783
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** KOTA MADIUN
+* **Asal Sekolah:** SMKN 03 MADIUN
+* **Fun Fact:** drakor addict 
+
 
 ---
 
