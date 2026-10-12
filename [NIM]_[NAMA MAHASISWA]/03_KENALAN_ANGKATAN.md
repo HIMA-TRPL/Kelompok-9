@@ -272,6 +272,17 @@
 * **Asal Sekolah:** SMAN 1 KEDUNGGALAR 
 * **Fun Fact:** Gabut pengen ngopi 
 
+### [21] 264311051 - Nazhwa Al Karana Putri  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_Nazhwa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANISA LATIFATUL ROHMA
+* **NIM:** 264311051
+* **TTL:** NGAWI, 28 Desember 2008
+* **Nomer Handphone:** 088226071910
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** KAB NGAWI
+* **Asal Sekolah:** SMAN 1 KARAS
+* **Fun Fact:** suka makan tapi malas ngunyah 
+
 
 ---
 
