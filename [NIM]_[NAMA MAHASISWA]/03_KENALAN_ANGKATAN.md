@@ -195,7 +195,16 @@
 * **Asal Sekolah:** SMKS AL-ISLAM JORESAN
 * **Fun Fact:** SUKA HEALING
 
-
+### [15] 264311047 - MOHAMAD FATIR
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047_Fatir.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MOHAMAD FATIR
+* **NIM:** 264311047
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
 ---
 
 ## 🏫 Kelas 1C
