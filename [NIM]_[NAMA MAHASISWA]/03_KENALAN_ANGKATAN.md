@@ -173,6 +173,17 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN 
 * **Fun Fact:** awas ya ITS tahun depan
 
+### [13] 264311058 - Sakhiya Azam Khoirunni'am 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058_Azam.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Sakhiya Azam Khoirunni'am 
+* **NIM:** 264311058
+* **TTL:** PONOROGO, 09 APRIL 2007
+* **Nomer Handphone:** 083139897766
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** PONOROGO
+* **Asal Sekolah:** SMKS AL-ISLAM JORESAN
+* **Fun Fact:** Fans Madrid
+
 
 ---
 
