@@ -294,6 +294,16 @@
 * **Asal Sekolah:** SMKN 03 MADIUN
 * **Fun Fact:** drakor addict 
 
+### [22] 264311053 - NILA AYUNISA  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311053_Nila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NILA AYUNISA
+* **NIM:** 264311053
+* **TTL:** MADIUN, 01 JUNI 2007
+* **Nomer Handphone:** 082245522019
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMAN 01 NGLAMES
+* **Fun Fact:** Suka Ngopi
 
 ---
 
