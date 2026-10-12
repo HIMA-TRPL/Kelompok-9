@@ -216,6 +216,17 @@
 * **Asal Daerah:** BREBES
 * **Asal Sekolah:** SMA BUDI UTOMO SURAKARTA
 * **Fun Fact:** -
+
+### [17] 264311042 - GADING FANDY RAYA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311042_Gading.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** GADING FANDY RAYA
+* **NIM:** 264311042
+* **TTL:** MAGETAN, 04 JUNI 2007
+* **Nomer Handphone:** 085894457828
+* **Nama Kelompok:** -
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 SUKOMORO
+* **Fun Fact:** -
 ---
 
 ## 🏫 Kelas 1C
