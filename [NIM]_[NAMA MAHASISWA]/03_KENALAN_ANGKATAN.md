@@ -327,6 +327,17 @@
 * **Asal Sekolah:** SMKS SENOPATI
 * **Fun Fact:** Hobi Turu
 
+### [27] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_Keylila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
+* **NIM:** 264311045
+* **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
+* **Nomer Handphone:** 08121881795
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** KOTA MADIUN 
+* **Asal Sekolah:** SMAN 01 MADIUN
+* **Fun Fact:** Feminist
+
 
 ---
 
