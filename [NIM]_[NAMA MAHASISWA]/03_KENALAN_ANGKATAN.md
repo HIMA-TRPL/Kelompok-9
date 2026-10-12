@@ -316,6 +316,18 @@
 * **Asal Sekolah:** SMAN 01 SUKOMORO
 * **Fun Fact:** Nangis kalau makan pedas
 
+### [24] 264311039 - DEWI WASILATUL KHOIRIYAH  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039_Dewi Wasilatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** DEWI WASILATUL KHOIRIYAH
+* **NIM:** 264311039
+* **TTL:** SIDOARJO, 21 NOVEMBER 2007
+* **Nomer Handphone:** 089506013768
+* **Nama Kelompok:** VUE
+* **Asal Daerah:** SIDOARJO
+* **Asal Sekolah:** SMKS SENOPATI
+* **Fun Fact:** Hobi Turu
+
+
 ---
 
 ## 🏫 Kelas 1C
