@@ -205,6 +205,17 @@
 * **Asal Daerah:** -
 * **Asal Sekolah:** -
 * **Fun Fact:** -
+
+### [16] 264311044 - HEKSA ABDILLAH AL GHOFAR
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044_Heksa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** HEKSA ABDILLAH AL GHOFAR
+* **NIM:** 264311044
+* **TTL:** BREBES,08 APRIL 2008
+* **Nomer Handphone:** 081227443213
+* **Nama Kelompok:** FLUTTER
+* **Asal Daerah:** BREBES
+* **Asal Sekolah:** SMA BUDI UTOMO SURAKARTA
+* **Fun Fact:** -
 ---
 
 ## 🏫 Kelas 1C
