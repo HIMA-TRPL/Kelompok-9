@@ -74,7 +74,7 @@
 * **Asal Sekolah:** MAN 1 KOTA MADIUN
 * **Fun Fact:** GA SUKA NGOMONG KASAR
 
-### [04] 264311031 -AHMAD MUJADID MUSYAFI'I 
+### [04] 264311031 - AHMAD MUJADID MUSYAFI'I 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_Jadid.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AHMAD MUJADID MUSYAFI'I 
 * **NIM:** 264311031
@@ -84,6 +84,17 @@
 * **Asal Daerah:** MAGETAN
 * **Asal Sekolah:** MAN 1 KOTA MADIUN
 * **Fun Fact:** gk kuat makan makanan pedas
+
+### [05] 264311033 - AKBAR PUTRA PRATAMA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_Jadid.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AKBAR PUTRA PRATAMA 
+* **NIM:** 264311033
+* **TTL:** KOTA MADIUN, 25 JANUARI 2007
+* **Nomer Handphone:** 083896329878
+* **Nama Kelompok:** FLUTTER
+* **Asal Daerah:** MADIUN
+* **Asal Sekolah:** SMKN 03 KOTA MADIUN
+* **Fun Fact:** Gmpang tidur
 
 ---
 
