@@ -250,6 +250,16 @@
 * **Asal Sekolah:** SMAN 1 PONOROGO 
 * **Fun Fact:** Gampang Ngantuk 
 
+### [20] 264311035 - ANISA LATIFATUL ROHMA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311035_Anisa Latif.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANISA LATIFATUL ROHMA
+* **NIM:** 264311035
+* **TTL:** KOTA MADIUN, 20 MARET 2007
+* **Nomer Handphone:** 08977957262
+* **Nama Kelompok:** FLUTTER
+* **Asal Daerah:** KOTA MADIUN 
+* **Asal Sekolah:** SMAN 01 MADIUN 
+* **Fun Fact:** bersin" habis ngekek
 
 
 ---
