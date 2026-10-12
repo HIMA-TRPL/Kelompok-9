@@ -184,6 +184,17 @@
 * **Asal Sekolah:** SMKS AL-ISLAM JORESAN
 * **Fun Fact:** Fans Madrid
 
+### [14] 264311032 - AHMAD RAISYA AL IQSAN 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032_Raisya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Sakhiya Azam Khoirunni'am 
+* **NIM:** 264311032
+* **TTL:** PONOROGO, 27 NOVEMBER  2007
+* **Nomer Handphone:** 0881036972398
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** PONOROGO
+* **Asal Sekolah:** SMKS AL-ISLAM JORESAN
+* **Fun Fact:** SUKA HEALING
+
 
 ---
 
