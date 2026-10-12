@@ -261,6 +261,17 @@
 * **Asal Sekolah:** SMAN 01 MADIUN 
 * **Fun Fact:** bersin" habis ngekek
 
+### [20] 264311050 - NADILA WULANSARI 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_Nadila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANISA LATIFATUL ROHMA
+* **NIM:** 264311050
+* **TTL:** NGAWI, 23 Mei 2007
+* **Nomer Handphone:** 081216380963
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** KAB NGAWI
+* **Asal Sekolah:** SMAN 1 KEDUNGGALAR 
+* **Fun Fact:** Gabut pengen ngopi 
+
 
 ---
 
