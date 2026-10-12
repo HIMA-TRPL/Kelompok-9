@@ -261,7 +261,7 @@
 * **Asal Sekolah:** SMAN 01 MADIUN 
 * **Fun Fact:** bersin" habis ngekek
 
-### [20] 264311050 - NADILA WULANSARI 
+### [21] 264311050 - NADILA WULANSARI 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_Nadila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NADILA WULANSARI
 * **NIM:** 264311050
@@ -272,7 +272,7 @@
 * **Asal Sekolah:** SMAN 1 KEDUNGGALAR 
 * **Fun Fact:** Gabut pengen ngopi 
 
-### [21] 264311051 - Nazhwa Al Karana Putri  
+### [22] 264311051 - Nazhwa Al Karana Putri  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_Nazhwa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nazhwa Al Karana Putri
 * **NIM:** 264311051
@@ -283,7 +283,7 @@
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** suka makan tapi malas ngunyah 
 
-### [22] 264311036 - ANNISA NIMASTURNA MEYSARAHMA  
+### [23] 264311036 - ANNISA NIMASTURNA MEYSARAHMA  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036_Annisa Nimasturna.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANNISA NIMASTURNA MEYSARAHMA
 * **NIM:** 264311036
@@ -294,7 +294,7 @@
 * **Asal Sekolah:** SMKN 03 MADIUN
 * **Fun Fact:** drakor addict 
 
-### [22] 264311053 - NILA AYUNISA  
+### [24] 264311053 - NILA AYUNISA  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311053_Nila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NILA AYUNISA
 * **NIM:** 264311053
@@ -305,7 +305,7 @@
 * **Asal Sekolah:** SMAN 01 NGLAMES
 * **Fun Fact:** Suka Ngopi
 
-### [23] 264311037 - ANASTASYA SILVIA MONICA 
+### [25] 264311037 - ANASTASYA SILVIA MONICA 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037_Anastasya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ANASTASYA SILVIA MONICA
 * **NIM:** 264311037
@@ -316,7 +316,7 @@
 * **Asal Sekolah:** SMAN 01 SUKOMORO
 * **Fun Fact:** Nangis kalau makan pedas
 
-### [24] 264311039 - DEWI WASILATUL KHOIRIYAH  
+### [26] 264311039 - DEWI WASILATUL KHOIRIYAH  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039_Dewi Wasilatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DEWI WASILATUL KHOIRIYAH
 * **NIM:** 264311039
