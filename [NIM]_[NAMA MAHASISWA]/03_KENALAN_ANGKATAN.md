@@ -186,7 +186,7 @@
 
 ### [14] 264311032 - AHMAD RAISYA AL IQSAN 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032_Raisya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Sakhiya Azam Khoirunni'am 
+* **Nama Lengkap:** AHMAD RAISYA AL IQSAN 
 * **NIM:** 264311032
 * **TTL:** PONOROGO, 27 NOVEMBER  2007
 * **Nomer Handphone:** 0881036972398
