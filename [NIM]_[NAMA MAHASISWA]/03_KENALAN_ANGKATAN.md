@@ -97,7 +97,7 @@
 * **Fun Fact:** Gmpang tidur
 
 ### [06] 264311040 - FAIRUZ NADHIR RAHMAD
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_Akbar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FAIRUZ NADHIR RAHMAD
 * **NIM:** 264311040
 * **TTL:** KOTA MADIUN, 02 APRIL 2008
