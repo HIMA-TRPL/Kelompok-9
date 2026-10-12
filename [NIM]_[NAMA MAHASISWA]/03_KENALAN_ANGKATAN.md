@@ -139,6 +139,17 @@
 * **Asal Daerah:** NGAWI
 * **Asal Sekolah:** SMAN 1 NGAWI
 * **Fun Fact:** jadi backburner
+
+### [10] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311046_Kevin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** 264311046
+* **TTL:** KOTA MADIUN, 06 MARET 2007
+* **Nomer Handphone:** 085198186162
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KOTA MADIUN 
+* **Asal Sekolah:** SMK TELKOM MALANG
+* **Fun Fact:** Berani Beda
 ---
 
 ## 🏫 Kelas 1C
