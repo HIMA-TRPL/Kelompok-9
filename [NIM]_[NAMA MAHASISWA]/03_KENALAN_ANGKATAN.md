@@ -263,7 +263,7 @@
 
 ### [20] 264311050 - NADILA WULANSARI 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_Nadila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** ANISA LATIFATUL ROHMA
+* **Nama Lengkap:** NADILA WULANSARI
 * **NIM:** 264311050
 * **TTL:** NGAWI, 23 Mei 2007
 * **Nomer Handphone:** 081216380963
@@ -274,7 +274,7 @@
 
 ### [21] 264311051 - Nazhwa Al Karana Putri  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_Nazhwa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** ANISA LATIFATUL ROHMA
+* **Nama Lengkap:** Nazhwa Al Karana Putri
 * **NIM:** 264311051
 * **TTL:** NGAWI, 28 Desember 2008
 * **Nomer Handphone:** 088226071910
@@ -304,6 +304,17 @@
 * **Asal Daerah:** KAB.MADIUN
 * **Asal Sekolah:** SMAN 01 NGLAMES
 * **Fun Fact:** Suka Ngopi
+
+### [23] 264311037 - ANASTASYA SILVIA MONICA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037_Anastasya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANASTASYA SILVIA MONICA
+* **NIM:** 264311037
+* **TTL:** Kota Magetan, 5 Juni 2008
+* **Nomer Handphone:** 085129127452
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KOTA MAGETAN 
+* **Asal Sekolah:** SMAN 01 SUKOMORO
+* **Fun Fact:** Nangis kalau makan pedas
 
 ---
 
