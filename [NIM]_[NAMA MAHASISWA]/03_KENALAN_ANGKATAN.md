@@ -227,6 +227,19 @@
 * **Asal Daerah:** MAGETAN
 * **Asal Sekolah:** SMAN 1 SUKOMORO
 * **Fun Fact:** -
+
+### [18] 264311054 - Panji Yuwono Wijoyo
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054_Panji.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Panji Yuwono Wijoyo
+* **NIM:** 264311054
+* **TTL:** MADIUN, 22 FEBRUARI 2008
+* **Nomer Handphone:** 085724871983
+* **Nama Kelompok:** -
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMKS Al-Basyariyah
+* **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
+
+
 ---
 
 ## 🏫 Kelas 1C
