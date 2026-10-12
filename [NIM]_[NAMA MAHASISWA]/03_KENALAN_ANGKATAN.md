@@ -150,6 +150,19 @@
 * **Asal Daerah:** KOTA MADIUN 
 * **Asal Sekolah:** SMK TELKOM MALANG
 * **Fun Fact:** Berani Beda
+
+### [11] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043_Glendy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
+* **NIM:** 264311043
+* **TTL:** PONOROGO, 25 OKTOBER 2007
+* **Nomer Handphone:** 083845992818
+* **Nama Kelompok:** ANGULAR
+* **Asal Daerah:** PONOROGO
+* **Asal Sekolah:** SMKN 1 JENANGAN 
+* **Fun Fact:** Anda kenal saya tau sendiri
+
+
 ---
 
 ## 🏫 Kelas 1C
