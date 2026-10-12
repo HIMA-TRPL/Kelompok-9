@@ -338,6 +338,16 @@
 * **Asal Sekolah:** SMAN 01 MADIUN
 * **Fun Fact:** Feminist
 
+## [28] 264311034 - ALEXSANDRIA CAHAYA ADZANI    
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311034_ALEXSANDRIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ALEXSANDRIA CAHAYA ADZANI
+* **NIM:** 264311034
+* **TTL:** MADIUN, 20 JULI 2007
+* **Nomer Handphone:** 083831646118
+* **Nama Kelompok:** EXPRESS
+* **Asal Daerah:** KOTA MADIUN 
+* **Asal Sekolah:** SMAN 2 MADIUN
+* **Fun Fact:** wi wok de tok
 
 ---
 
