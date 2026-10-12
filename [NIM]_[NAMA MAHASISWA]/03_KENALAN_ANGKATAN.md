@@ -86,7 +86,7 @@
 * **Fun Fact:** gk kuat makan makanan pedas
 
 ### [05] 264311033 - AKBAR PUTRA PRATAMA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_Jadid.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_Akbar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AKBAR PUTRA PRATAMA 
 * **NIM:** 264311033
 * **TTL:** KOTA MADIUN, 25 JANUARI 2007
