@@ -96,6 +96,16 @@
 * **Asal Sekolah:** SMKN 03 KOTA MADIUN
 * **Fun Fact:** Gmpang tidur
 
+### [06] 264311040 - FAIRUZ NADHIR RAHMAD
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_Akbar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** FAIRUZ NADHIR RAHMAD
+* **NIM:** 264311040
+* **TTL:** KOTA MADIUN, 02 APRIL 2008
+* **Nomer Handphone:** 08976381168
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** MADIUN
+* **Asal Sekolah:** SMAN 2 MADIUN
+* **Fun Fact:** males error
 ---
 
 ## 🏫 Kelas 1C
