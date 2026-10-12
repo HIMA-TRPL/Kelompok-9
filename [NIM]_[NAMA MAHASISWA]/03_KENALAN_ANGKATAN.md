@@ -239,6 +239,18 @@
 * **Asal Sekolah:** SMKS Al-Basyariyah
 * **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
 
+### [19] 264311059 - SINARA ENDRYA ALNEGAR
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311059_Sinara.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** SINARA ENDRYA ALNEGAR
+* **NIM:** 264311059
+* **TTL:** PONOROGO, 9 JUNI 2007
+* **Nomer Handphone:** 085606994560
+* **Nama Kelompok:** VUE
+* **Asal Daerah:** PONOROGO
+* **Asal Sekolah:** SMAN 1 PONOROGO 
+* **Fun Fact:** Gampang Ngantuk 
+
+
 
 ---
 
