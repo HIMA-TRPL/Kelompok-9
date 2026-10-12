@@ -162,6 +162,17 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN 
 * **Fun Fact:** Anda kenal saya tau sendiri
 
+### [12] 264311048 - Muhammad Amirul Hafidz 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_Hapiz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Muhammad Amirul Hafidz 
+* **NIM:** 264311048
+* **TTL:** PONOROGO, 06 APRIL 2007
+* **Nomer Handphone:** 081217250448
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KAB.PONOROGO
+* **Asal Sekolah:** SMKN 1 JENANGAN 
+* **Fun Fact:** awas ya ITS tahun depan
+
 
 ---
 
