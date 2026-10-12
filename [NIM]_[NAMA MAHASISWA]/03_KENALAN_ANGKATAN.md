@@ -106,6 +106,217 @@
 * **Asal Daerah:** MADIUN
 * **Asal Sekolah:** SMAN 2 MADIUN
 * **Fun Fact:** males error
+
+### [07] 264311055 - RAIZZAN ULAYYA TAQQI
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAIZZAN ULAYYA TAQQI
+* **NIM:** 264311055
+* **TTL:** NGAWI, 01 OKTOBER 2007
+* **Nomer Handphone:** 087778962411
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KOTA MADIUN
+* **Asal Sekolah:** SMAN 5 MADIUN
+* **Fun Fact:** gk suka makan pedes
+
+### [07] 264311048 - MUHAMMAD AMIRUL HAFIDZ
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MUHAMMAD AMIRUL HAFIDZ
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311056 - RESTU PRAYUGA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  RESTU PRAYUGA
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+### [07] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Nama Kelompok:** -
+* **Asal Daerah:** -
+* **Asal Sekolah:** -
+* **Fun Fact:** -
+
+
 ---
 
 ## 🏫 Kelas 1C
