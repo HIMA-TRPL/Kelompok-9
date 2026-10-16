@@ -199,12 +199,12 @@
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047_Fatir.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MOHAMAD FATIR
 * **NIM:** 264311047
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Nama Kelompok:** -
-* **Asal Daerah:** -
-* **Asal Sekolah:** -
-* **Fun Fact:** -
+* **TTL:** MADIUN, 22 MEI 2007
+* **Nomer Handphone:** 085855805726
+* **Nama Kelompok:** EXPRESS
+* **Asal Daerah:** KAB.MADIUN 
+* **Asal Sekolah:** SMKN 1 GEGER
+* **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### [16] 264311044 - HEKSA ABDILLAH AL GHOFAR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044_Heksa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
