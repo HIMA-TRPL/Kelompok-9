@@ -59,6 +59,17 @@
 * **Asal Sekolah:** SMKN 2 MAGETAN
 * **Fun Fact:** Karina AESPA MBG (my bini gw)
 
+### [06] 264311010 - DAVA AL MUSTOFFA DACHLAN    
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003_dava.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** DAVA AL MUSTOFFA DACHLAN
+* **NIM:** 264311010
+* **TTL:** MAGETAN, 17 MARET 2007
+* **Nomer Handphone:** 087840888211
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** MADIUN 
+* **Asal Sekolah:** SMAN 1 GEGER
+* **Fun Fact:** Cool
+
 ---
 
 ## 🏫 Kelas 1B
