@@ -37,6 +37,17 @@
 * **Asal Sekolah:** SMAN 1 BARAT
 * **Fun Fact:** Dipanggil nengok
 
+### [04] 264311012 - DIMAS PRAMODYA BAGASKARA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012_Dimas.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** DIMAS PRAMODYA BAGASKARA
+* **NIM:** 264311012
+* **TTL:** PONOROGO, 05 MEI 2008
+* **Nomer Handphone:** 0881036039069
+* **Nama Kelompok:** SPRING
+* **Asal Daerah:** PONOROGO
+* **Asal Sekolah:** SMAN 1 JENANGAN
+* **Fun Fact:** Cadel
+
 ---
 
 ## 🏫 Kelas 1B
