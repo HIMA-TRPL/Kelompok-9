@@ -2,18 +2,16 @@
 
 ---
 
-## 🏫 Kelas 1A
-
-### [01] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [01] 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311002_Adly.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ADLY NOURUS ZAMAN ASSIDIQ
+* **NIM:** 264311002
+* **TTL:** -
+* **Nomer Handphone:** 081315871890
+* **Nama Kelompok:** FLASK
+* **Asal Daerah:** PONOROGO
+* **Asal Sekolah:** SMKN 1 JENANGAN
+* **Fun Fact:** Aku mau tidur
 
 ### [02] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
