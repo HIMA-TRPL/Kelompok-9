@@ -26,16 +26,16 @@
 
 
 
-### [03] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [03] 264311021 - MUHAMMAD RIDWAN NAZIM
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021_Ridwan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MUHAMMAD RIDWAN NAZIM
+* **NIM:** 264311021
+* **TTL:** JAKARTA, 25 MEI 2007
+* **Nomer Handphone:** 085807229272
+* **Nama Kelompok:** FLASK
+* **Asal Daerah:** MAGETAN 
+* **Asal Sekolah:** SMAN 1 BARAT
+* **Fun Fact:** Dipanggil nengok
 
 ---
 
