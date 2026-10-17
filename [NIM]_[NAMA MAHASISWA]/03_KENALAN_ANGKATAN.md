@@ -14,7 +14,7 @@
 * **Fun Fact:** Aku mau tidur
 
 ### [02] 264311013 - EDGAR RIZKI PUTRA NOVARIYANTO     
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311013_Edgar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311013_Edgar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** EDGAR RIZKI PUTRA NOVARIYANTO
 * **NIM:** 264311013
 * **TTL:** MADIUN, 17 NOVEMBER 2007
