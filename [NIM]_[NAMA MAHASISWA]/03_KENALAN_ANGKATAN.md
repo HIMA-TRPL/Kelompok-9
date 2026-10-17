@@ -3,7 +3,7 @@
 ---
 
 ### [01] 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311002_Adly.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002_Adly.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADLY NOURUS ZAMAN ASSIDIQ
 * **NIM:** 264311002
 * **TTL:** -
