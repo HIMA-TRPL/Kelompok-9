@@ -27,7 +27,7 @@
 
 
 ### [03] 264311021 - MUHAMMAD RIDWAN NAZIM
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021_Ridwan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021_Ridwan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MUHAMMAD RIDWAN NAZIM
 * **NIM:** 264311021
 * **TTL:** JAKARTA, 25 MEI 2007
