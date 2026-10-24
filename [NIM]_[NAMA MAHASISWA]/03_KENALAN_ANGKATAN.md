@@ -60,7 +60,7 @@
 * **Fun Fact:** Karina AESPA MBG (my bini gw)
 
 ### [06] 264311010 - DAVA AL MUSTOFFA DACHLAN    
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003_Dava.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010_Dava.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DAVA AL MUSTOFFA DACHLAN
 * **NIM:** 264311010
 * **TTL:** MAGETAN, 17 MARET 2007
