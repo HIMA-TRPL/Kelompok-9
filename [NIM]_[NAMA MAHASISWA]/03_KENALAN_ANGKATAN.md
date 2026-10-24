@@ -157,6 +157,19 @@
 * **Asal Daerah:** KAB MADIUN
 * **Asal Sekolah:** SMKN 1 WONOASRI 
 * **Fun Fact:** Suka main gitar
+
+### [14] 264311025 - RAFIQ IMAM ZAINI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025_Rafiq.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAFIQ IMAM ZAINI
+* **NIM:** 264311025
+* **TTL:** BALIKPAPAN,21 DESEMBER 2005
+* **Nomer Handphone:** 089616630873
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 MAOSPATI 
+* **Fun Fact:** Suka pecut ai
+
+
 ---
 
 ## 🏫 Kelas 1B
