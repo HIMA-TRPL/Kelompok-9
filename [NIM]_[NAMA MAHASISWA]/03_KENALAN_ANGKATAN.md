@@ -124,6 +124,17 @@
 * **Asal Daerah:** PONOROGO
 * **Asal Sekolah:** SMK PGRI 2 PONOROGO
 * **Fun Fact:** suka lagu LANA DEL REY
+
+### [11] 264311027 - REZA SURYA KURNIAWAN
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027_Reza.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** REZA SURYA KURNIAWAN
+* **NIM:** 264311027
+* **TTL:** Magetan, 28 Maret 2007
+* **Nomer Handphone:** 0895395151012
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** MAN 2 KOTA MADIUN 
+* **Fun Fact:** Suka Kopag
 ---
 
 ## 🏫 Kelas 1B
