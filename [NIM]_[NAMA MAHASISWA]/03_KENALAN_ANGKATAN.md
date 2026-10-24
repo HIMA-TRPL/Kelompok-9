@@ -135,6 +135,19 @@
 * **Asal Daerah:** MAGETAN
 * **Asal Sekolah:** MAN 2 KOTA MADIUN 
 * **Fun Fact:** Suka Kopag
+
+### [12] 264311005 - ANIS ALI SOHIB
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005_Sohib.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** REZA SURYA KURNIAWAN
+* **NIM:** 264311027
+* **TTL:** MAGETAN, 26 MARET 2008
+* **Nomer Handphone:** 085759339335
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMK MA'ARIF DS
+* **Fun Fact:** Hiking
+
+
 ---
 
 ## 🏫 Kelas 1B
