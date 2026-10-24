@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### [01] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/WhatsApp Image 2026-10-24 at 23.39.58.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
 * **TTL:** [TTL_MAHASISWA_BARU]
