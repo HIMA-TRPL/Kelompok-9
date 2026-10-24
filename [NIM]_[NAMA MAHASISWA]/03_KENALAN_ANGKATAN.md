@@ -6,14 +6,14 @@
 
 ### [01] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/WhatsApp Image 2026-10-24 at 23.39.58.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** Bramanta Setya Bagaskara
+* **NIM:** 264311009
+* **TTL:** MALANG, 24 NOVEMBER 2007
+* **Nomer Handphone:** 082335095279
+* **Nama Kelompok:** SPRING
+* **Asal Daerah:** MALANG
+* **Asal Sekolah:** SMKN 1 KEPANJEN
+* **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
 
 ### [02] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
