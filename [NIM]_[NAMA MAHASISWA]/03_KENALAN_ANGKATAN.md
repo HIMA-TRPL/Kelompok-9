@@ -70,6 +70,18 @@
 * **Asal Sekolah:** SMAN 1 GEGER
 * **Fun Fact:** Cool
 
+### [07] 264311009 - BRAMANTA SETYA BAGASKARA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009_Bagas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** BRAMANTA SETYA BAGASKARA
+* **NIM:** 264311009
+* **TTL:** MALANG, 24 NOVEMBER 2007
+* **Nomer Handphone:** 082335095279
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** MALANG
+* **Asal Sekolah:** SMKN 1 KEPANJEN
+* **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
+
+
 ---
 
 ## 🏫 Kelas 1B
