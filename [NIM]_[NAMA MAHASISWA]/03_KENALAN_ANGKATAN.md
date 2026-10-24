@@ -92,6 +92,18 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** MASA MUDA WAJIB HEALING
 
+### [09] 264311029 - RIFQI ADYASTA MAHARDIKA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311029_Rifqi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RIFQI ADYASTA MAHARDIKA
+* **NIM:** 264311029
+* **TTL:** BOJONEGORO, 19 SEPTEMBER 2008
+* **Nomer Handphone:** 085335808840
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** BOJONEGORO
+* **Asal Sekolah:** SMAN 1 KASIMAN
+* **Fun Fact:** pengen jago vibe coding
+
+
 
 ---
 
