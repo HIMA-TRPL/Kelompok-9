@@ -81,8 +81,8 @@
 * **Asal Sekolah:** SMKN 1 KEPANJEN
 * **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
 
-### [08] 264311004 - 
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009_Afrien.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [08] 264311004 - AFRIEN
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004_Afrien.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AFRIEN
 * **NIM:** 264311004
 * **TTL:** MAGETAN, 30 AGUSTUS 2008
