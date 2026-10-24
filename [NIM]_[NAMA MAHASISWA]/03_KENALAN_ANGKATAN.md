@@ -147,7 +147,16 @@
 * **Asal Sekolah:** SMK MA'ARIF DS
 * **Fun Fact:** Hiking
 
-
+### [13] 264311019 - KHANSA QAIS FERNANDA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311019_Fernanda.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** KHANSA QAIS FERNANDA
+* **NIM:** 264311019
+* **TTL:** MADIUN,21 FEBRUARI 2008
+* **Nomer Handphone:** 083171456397
+* **Nama Kelompok:** SPRING
+* **Asal Daerah:** KAB MADIUN
+* **Asal Sekolah:** SMKN 1 WONOASRI 
+* **Fun Fact:** Suka main gitar
 ---
 
 ## 🏫 Kelas 1B
