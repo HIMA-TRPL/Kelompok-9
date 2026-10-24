@@ -103,7 +103,16 @@
 * **Asal Sekolah:** SMAN 1 KASIMAN
 * **Fun Fact:** pengen jago vibe coding
 
-
+### [10] 264311026 - RAHMA FAUZI CAHYA SAPUTRA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026_Fauzi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAHMA FAUZI CAHYA SAPUTRA
+* **NIM:** 264311026
+* **TTL:** NGAWI, 20 JULI 2008
+* **Nomer Handphone:** 085748652781
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** NGAWI
+* **Asal Sekolah:** SMAN 1 KARANGJATI
+* **Fun Fact:** PENDIEM YANG SERING GERAK
 
 ---
 
