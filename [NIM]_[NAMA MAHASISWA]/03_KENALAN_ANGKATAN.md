@@ -115,7 +115,7 @@
 * **Fun Fact:** PENDIEM YANG SERING GERAK
 
 ### [11] 264311018 - JULIAN RAKA NUGRAHA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018_Fauzi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018_Raka.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** JULIAN RAKA NUGRAHA
 * **NIM:** 264311018
 * **TTL:** PONOROGO, 28 JULI 2008
