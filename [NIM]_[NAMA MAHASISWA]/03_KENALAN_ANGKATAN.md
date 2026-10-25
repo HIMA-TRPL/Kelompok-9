@@ -236,7 +236,7 @@
 * **Fun Fact:** dipanggil nengok
 
 ### 22 264311022 - Naila Azahra Fitri
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/zahro.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/naila.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Naila Azahra Fitri
 * **NIM:** 264311022
 * **TTL:** Bojonegoro, 10 Oktober 2008
@@ -291,7 +291,7 @@
 * **Fun Fact:** PENDIEM YANG SERING GERAK
 
 ### 27 264311027 - Reza Surya Kurniawan
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Reza.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Reza Surya Kurniawan
 * **NIM:** 264311027
 * **TTL:** Magetan, 28 Maret 2007
@@ -302,7 +302,7 @@
 * **Fun Fact:** Suka kopag
 
 ### 28 264311028 - Rhahma Dwi Sekarsari
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/rahma.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rhahma Dwi Sekarsari
 * **NIM:** 264311028
 * **TTL:** Nganjuk, 31 Juli 2008
@@ -313,7 +313,7 @@
 * **Fun Fact:** MINUM TEH GABISA TIDUR
 
 ### 29 264311029 - Rifqi Adyasta Mahardika
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/rifki.jpgg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rifqi Adyasta Mahardika
 * **NIM:** 264311029
 * **TTL:** Bojonegoro, 19 September 2008
@@ -324,7 +324,7 @@
 * **Fun Fact:** pengen jago vibe coding
 
 ### 30 264311030 - Zahro Choirun Latifah
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/zahro.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zahro Choirun Latifah
 * **NIM:** 264311030
 * **TTL:** Madiun, 15 Mei 2007
