@@ -169,7 +169,16 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI 
 * **Fun Fact:** Suka pecut ai
 
-
+### [15] 264311014 - ELVAN SYAHPUTRA IDHAM 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014_Elvan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAFIQ IMAM ZAINI
+* **NIM:** 264311014
+* **TTL:** MADIUN, 08 MARET 2008
+* **Nomer Handphone:** 085141031476
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** KAB MADIUN 
+* **Asal Sekolah:** SMKN 1 MEJAYAN
+* **Fun Fact:** suka melukis 
 ---
 
 ## 🏫 Kelas 1B
