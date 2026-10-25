@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### [01] 264311009 - Bramanta Setya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/WhatsApp Image 2026-10-24 at 23.39.58.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/bagas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bramanta Setya Bagaskara
 * **NIM:** 264311009
 * **TTL:** MALANG, 24 NOVEMBER 2007
