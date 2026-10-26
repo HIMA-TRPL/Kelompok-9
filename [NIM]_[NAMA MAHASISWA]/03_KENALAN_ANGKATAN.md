@@ -202,16 +202,16 @@
 * **Asal Sekolah:** [SMK_PGRI_2_PONOROGO]
 * **Fun Fact:** [SUKA_LAGU_LANA_DEL_REY]
 
-### [19] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [19] [264311019] - [KHANSA_QAIS_FERNANDA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311019_KHANSA QAIS FERNANDA.jpeg" alt="Khansa Qais Fernanda" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** [KHANSA_QAIS_FERNANDA]
+* **NIM:** [264311019]
+* **TTL:** [MADIUN_21_FEBRUARI_2008]
+* **Nomer Handphone:** [083171456397]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [KABUPATEN_MADIUN]
+* **Asal Sekolah:** [SMKN_1_WONOASRI]
+* **Fun Fact:** [SUKA_MAIN_GITAR]
 
 ### [20] [264311020] - [MAHIJA_PARAMA_URDHA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020_MAHIJA PARAMA URDHA.jpeg" alt="Mahija Parama Urdha" style="object-fit:cover" width="300px" height="300px">
@@ -267,6 +267,74 @@
 * **Asal Daerah:** [NGAWI]
 * **Asal Sekolah:** [MAS_AL-ISLAM_JORESAN_PONOROGO]
 * **Fun Fact:** [BISA_TIDUR_BERDIRI]
+
+### [25] [264311025] - [RAFIQ_IMAM_ZAINI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025_RAFIQ IMAM ZAINI.jpeg" alt="Rafiq Imam Zaini" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RAFIQ_IMAM_ZAINI]
+* **NIM:** [264311025]
+* **TTL:** [BALIKPAPAN_21_DESEMBER_2005]
+* **Nomer Handphone:** [089616630873]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_MAOSPATI]
+* **Fun Fact:** [SELALU_JADI_SECOND_CHOICE]
+
+### [26] [264311026] - [RAHMA_FAUZI_CAHYA_SAPUTRA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026_RAHMA FAUZI CAHYA SAPUTRA.jpeg" alt="Rahma Fauzi Cahya Saputra" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RAHMA_FAUZI_CAHYA_SAPUTRA]
+* **NIM:** [264311026]
+* **TTL:** [NGAWI_20_JULI_2008]
+* **Nomer Handphone:** [085748652781]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [NGAWI]
+* **Asal Sekolah:** [SMAN_1_KARANGJATI]
+* **Fun Fact:** [PENDIEM_YANG_SERING_GERAK]
+
+### [27] [264311027] - [REZA_SURYA_KURNIAWAN]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027_REZA SURYA KURNIAWAN.jpeg" alt="Reza Surya Kurniawan" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [REZA_SURYA_KURNIAWAN]
+* **NIM:** [264311027]
+* **TTL:** [MAGETAN_28_MARET_2007]
+* **Nomer Handphone:** [0895395151012]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [MAN_2_KOTA_MADIUN]
+* **Fun Fact:** [SUKA_KOPAG]
+
+### [28] [264311028] - [RHAHMA_DWI_SEKARSARI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028_RHAHMA DWI SEKARSARI.jpeg" alt="Rhahma Dwi Sekarsari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RHAHMA_DWI_SEKARSARI]
+* **NIM:** [264311028]
+* **TTL:** [NGANJUK_31_JULI_2008]
+* **Nomer Handphone:** [085852424110]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [NGANJUK]
+* **Asal Sekolah:** [SMKN_1_LENGKONG]
+* **Fun Fact:** [MINUM_TEH_GABISA_TIDUR]
+
+### [29] [264311029] - [RIFQI_ADYASTA_MAHARDIKA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311029_RIFQY ADYASTA MAHARDIKA.jpeg" alt="Rifqy Adyasta Mahardika" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RIFQI_ADYASTA_MAHARDIKA]
+* **NIM:** [264311029]
+* **TTL:** [BOJONEGORO_19_SEPTEMBER_2008]
+* **Nomer Handphone:** [085335808840]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN_1_KASIMAN]
+* **Fun Fact:** [PENGEN_JAGO_VIBE_CODING]
+
+### [30] [264311030] - [ZAHRO_CHOIRUN_LATIFAH]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030_ZAHRO CHOIRUN LATIFAH.jpeg" alt="Zahro Choirun Latifah" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ZAHRO_CHOIRUN_LATIFAH]
+* **NIM:** [264311030]
+* **TTL:** [MADIUN_15_MEI_2007]
+* **Nomer Handphone:** [089622274040]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [MAN_1_KOTA_MADIUN]
+* **Fun Fact:** [FUN_FACT]
+
+
 ---
 
 ## 🏫 Kelas 1B
