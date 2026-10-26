@@ -339,8 +339,8 @@
 
 ## 🏫 Kelas 1B
 
-### [04] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [04] [264311031] - [AHMAD_MUJADID_MUSYAFI'I]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311031_AHMAD MUJADID MUSYAFI&#39;I.jpeg" alt="Ahmad Mujadid Musyafi'i" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
 * **TTL:** [TTL_MAHASISWA_BARU]
