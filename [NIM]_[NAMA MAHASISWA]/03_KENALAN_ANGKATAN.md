@@ -203,7 +203,7 @@
 * **Fun Fact:** [SUKA_LAGU_LANA_DEL_REY]
 
 ### [19] [264311019] - [KHANSA_QAIS_FERNANDA]
-*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311019-KHANSA_QAIS_FERNANDA.jpeg" alt="Foto Khansa" style="object-fit:cover" width="300px" height="300px">
+*<img src="assets/MAHASISWA_BARU/Kelas_1A/264311019%20-%20KHANSA_QAIS_FERNANDA.jpeg" alt="Foto Khansa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [KHANSA_QAIS_FERNANDA]
 * **NIM:** [264311019]
 * **TTL:** [MADIUN_21_FEBRUARI_2008]
