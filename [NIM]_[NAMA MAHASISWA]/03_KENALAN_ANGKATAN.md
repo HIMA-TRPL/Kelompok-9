@@ -125,6 +125,148 @@
 * **Asal Sekolah:** [ASAL_SEKOLAH]
 * **Fun Fact:** [FUN_FACT]
 
+### [12] [264311012] - [DIMAS_PRAMODYA_BAGASKARA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012_DIMAS PRAMODYA BAGASKARA.jpeg" alt="Dimas Pramodya Bagaskara" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [DIMAS_PRAMODYA_BAGASKAR]
+* **NIM:** [264311012]
+* **TTL:** [PONOROGO_05_Mei_2008]
+* **Nomer Handphone:** [0881036039069]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMK_1_JENANGAN]
+* **Fun Fact:** [CADEL]
+
+### [13] [264311013] - [EDGAR_RIZKI_PUTRA_NOVARIYANTO]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311013_EDGAR RIZKI PUTRA NOVARIYANTO.jpeg" alt="Edgar Rizki Putra Novariyanto" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [EDGAR_RIZKI_PUTRA_NOVARIYANTO]
+* **NIM:** [264311013]
+* **TTL:** [MADIUN_17_NOVEMBER_2007]
+* **Nomer Handphone:** [085649416080]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMKN_1_GEGER]
+* **Fun Fact:** [AKU_MAH_PEMULAA]
+
+### [14] [264311014] - [ELVAN_SYAHPUTRA_IDHAM]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014_ELVAN SYAHPUTRA IDHAM.jpeg" alt="Elvan Syahputra Idham" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ELVAN_SYAHPUTRA_IDHAM]
+* **NIM:** [264311014]
+* **TTL:** [MADIUN_08_MARET_2008]
+* **Nomer Handphone:** [085141031476]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [KAB_MADIUN]
+* **Asal Sekolah:** [SMKN_1_MEJAYAN]
+* **Fun Fact:** [SUKA_MELUKIS]
+
+### [15] [264311015] - [FAKHRIYATUL_MUZAKKINA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015_FAKHRIYATUL MUZAKKINA.jpeg" alt="Fakhriyatul Muzakkina" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [FAKHRIYATUL_MUZAKKINAU]
+* **NIM:** [264311015]
+* **TTL:** [PROBOLINGGO_16_JULI_2008]
+* **Nomer Handphone:** [8580402815]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [PROBOLINGGO]
+* **Asal Sekolah:** [SMKN_2_KRAKSAAN]
+* **Fun Fact:** [GA_BISA_TIDUR_KLO_GA_NYETEL_MUSIK]
+
+### [16] [264311016] - [FATIKHA_ARTEMISIA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016_FATIKHA ARTEMISIA.jpeg" alt="Fatikha Artemisia" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [FATIKHA_ARTEMISIA]
+* **NIM:** [264311016]
+* **TTL:** [MAGETAN_16_DESEMBER_2007]
+* **Nomer Handphone:** [085604017960]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_MAOSPATI]
+* **Fun Fact:** [CINTA_KECAP]
+
+### [17] [264311017] - [JELITA_PALUPI_KUSUMA_WARDANI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017_JELITA PALUPI KUSUMA WARDANI.jpeg" alt="Jelita Palupi Kusuma Wardani" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [JELITA_PALUPI_KUSUMA_WARDANI]
+* **NIM:** [264311017]
+* **TTL:** [SIDOARJO_17_MARET_2008]
+* **Nomer Handphone:** [082331467589]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [SIDOARJO]
+* **Asal Sekolah:** [SMK_SENOPATI_SIDOARJO]
+* **Fun Fact:** [SUKA_BUBUDUDU]
+
+### [18] [264311018] - [JULIAN_RAKA_NUGRAHA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018_JULIAN RAKA NUGRAHA.jpeg" alt="Julian Raka Nugraha" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [JULIAN_RAKA_NUGRAHA]
+* **NIM:** [264311018]
+* **TTL:** [PONOROGO_28_JULI_2008]
+* **Nomer Handphone:** [082247095571]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMK_PGRI_2_PONOROGO]
+* **Fun Fact:** [SUKA_LAGU_LANA_DEL_REY]
+
+### [19] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311019_KHANSA QAIS FERNANDA.jpeg" alt="Khansa Qais Fernanda" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+### [20] [264311020] - [MAHIJA_PARAMA_URDHA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020_MAHIJA PARAMA URDHA.jpeg" alt="Mahija Parama Urdha" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MAHIJA_PARAMA_URDHA]
+* **NIM:** [264311020]
+* **TTL:** [PONOROGO_11_JANUARI_2008]
+* **Nomer Handphone:** [085812827530]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMKS_AL-ISLAM_JORESAN_PONOROGO]
+* **Fun Fact:** [BAIK]
+
+### [21] [264311021] - [MUHAMMAD_RIDWAN_NAZIM]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021_MUHAMMAD RIDWAN NAZIM.jpeg" alt="Muhammad Ridwan Nazim" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUHAMMAD_RIDWA_NAZIM]
+* **NIM:** [264311021]
+* **TTL:** [JAKARTA_25_MEI_2007]
+* **Nomer Handphone:** [085807229272]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_BARAT]
+* **Fun Fact:** [DIPANGGIL_NENGOK]
+
+### [22] [264311022] - [NAILA_AZAHRA_FITRI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022_NAILA AZAHRA FITRI.jpeg" alt="Naila Azahra Fitri" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAILA_AZAHRA_FITRI]
+* **NIM:** [264311022]
+* **TTL:** [BOJONEGORO_10_OKTOBER_2008]
+* **Nomer Handphone:** [081235681140]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN_1_CEPU]
+* **Fun Fact:** [FUN_FACT]
+
+### [23] [264311023] - [NASHWA_NADIA_NURLATIFA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023_NASHWA NADIA NURLATIFA.jpeg" alt="Nashwa Nadia Nurlatifa" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NASHWA_NADIA_NURLATIFA]
+* **NIM:** [264311023]
+* **TTL:** [BOJONEGORO_31_MARET_2008]
+* **Nomer Handphone:** [083117678815]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN_5_TARUNA_BRAWIJAYA]
+* **Fun Fact:** [LAGI_REWATCH_MARVEL_💚]
+
+### [24] [264311024] - [NGAZIMATUL_KHUSNA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024_NGAZIMATUL KHUSNA.jpeg" alt="Ngazimatul Khusna" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NGAZIMATUL_KHUSNA]
+* **NIM:** [264311024]
+* **TTL:** [NGAWI_12_JULI_2007]
+* **Nomer Handphone:** [085737034383]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [NGAWI]
+* **Asal Sekolah:** [MAS_AL-ISLAM_JORESAN_PONOROGO]
+* **Fun Fact:** [BISA_TIDUR_BERDIRI]
 ---
 
 ## 🏫 Kelas 1B
