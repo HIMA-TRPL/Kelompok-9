@@ -137,7 +137,7 @@
 * **Fun Fact:** [CADEL]
 
 ### [13] [264311013] - [EDGAR_RIZKI_PUTRA_NOVARIYANTO]
-* <img src="../assets/MAHASISWA_BARU/Kelas_1A/264311013-EDGAR_RIZKI_PUTRA_NOVRIYANTO.jpeg" alt="Foto Edgar" style="object-fit:cover" width="300px" height="300px">
+* <img src="../../assets/MAHASISWA_BARU/Kelas_1A/264311013-EDGAR_RIZKI_PUTRA_NOVRIYANTO.jpeg" alt="Foto Edgar" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [EDGAR_RIZKI_PUTRA_NOVARIYANTO]
 * **NIM:** [264311013]
 * **TTL:** [MADIUN_17_NOVEMBER_2007]
