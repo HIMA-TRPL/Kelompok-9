@@ -340,7 +340,7 @@
 ## 🏫 Kelas 1B
 
 ### [04] [264311031] - [AHMAD_MUJADID_MUSYAFI'I]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311031_AHMAD MUJADID MUSYAFI&#39;I.jpeg" alt="Ahmad Mujadid Musyafi'i" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_AHMAD%20MUJADID%20MUSYAFI%27I.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
 * **TTL:** [TTL_MAHASISWA_BARU]
@@ -351,7 +351,7 @@
 * **Fun Fact:** [FUN_FACT]
 
 ### [05] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032_AHMAD%20RAISYA%20AL%20IQSAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
 * **TTL:** [TTL_MAHASISWA_BARU]
@@ -362,7 +362,7 @@
 * **Fun Fact:** [FUN_FACT]
 
 ### [06] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_AKBAR%20PUTRA%20PRATAMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
 * **TTL:** [TTL_MAHASISWA_BARU]
