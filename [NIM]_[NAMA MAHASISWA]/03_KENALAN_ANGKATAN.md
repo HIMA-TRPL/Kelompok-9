@@ -339,16 +339,16 @@
 
 ## 🏫 Kelas 1B
 
-### [31] [264311031] - [AHMAD_MUJADID_MUSYAFI'I]
+### [31] [264311031] - [AHMAD MUJADID MUSYAFI'I ]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_AHMAD%20MUJADID%20MUSYAFI%27I.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** [AHMAD MUJADID MUSYAFI'I]
+* **NIM:** [264311031]
+* **TTL:** [MAGETAN, 9 DESEMBER 2007]
+* **Nomer Handphone:** [085253131038]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN 1 KARAS]
+* **Fun Fact:** [tidak kuat dengan makanan pedas]
 
 ### [32] [264311032] - [AHMAD RAISYA AL IQSAN ]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311032_AHMAD%20RAISYA%20AL%20IQSAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
