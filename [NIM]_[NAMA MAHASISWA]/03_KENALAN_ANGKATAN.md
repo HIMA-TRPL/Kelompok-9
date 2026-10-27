@@ -190,6 +190,17 @@
 * **Asal Daerah:** KAB MADIUN 
 * **Asal Sekolah:** SMKS AL-ISLAM JORESAN PONOROGO
 * **Fun Fact:** Baik
+
+### [17] 264311001 - ADHINIA ALKURRATU AINNI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001_Adhinia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ADHINIA ALKURRATU AINNI
+* **NIM:** 264311001
+* **TTL:** MADIUN, 11 DESEMBER 2007
+* **Nomer Handphone:** 0895397031103
+* **Nama Kelompok:** EXPRESS
+* **Asal Daerah:** NGAWI
+* **Asal Sekolah:** SMAN 1 NGLAMES
+* **Fun Fact:** Baik
 ---
 
 ## 🏫 Kelas 1B
