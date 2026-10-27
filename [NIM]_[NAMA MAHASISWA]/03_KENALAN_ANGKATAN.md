@@ -179,6 +179,17 @@
 * **Asal Daerah:** KAB MADIUN 
 * **Asal Sekolah:** SMKN 1 MEJAYAN
 * **Fun Fact:** suka melukis 
+
+### [16] 264311020 - MAHIJA PARAMA URDHA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020_Mahija.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MAHIJA PARAMA URDHA
+* **NIM:** 264311020
+* **TTL:** PONOROGO, 11 JANUARI 2008
+* **Nomer Handphone:** 085812827530
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** KAB MADIUN 
+* **Asal Sekolah:** SMKS AL-ISLAM JORESAN PONOROGO
+* **Fun Fact:** Baik
 ---
 
 ## 🏫 Kelas 1B
