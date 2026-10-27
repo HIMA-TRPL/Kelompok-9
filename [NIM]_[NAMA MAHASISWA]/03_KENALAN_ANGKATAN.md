@@ -601,16 +601,7 @@
 * **Asal Sekolah:** SMAN 2 MADIUN
 * **Fun Fact:** wi wok de tok
 
-### [29] 264311028 - RHAHMA DWI SEKARSARI
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028_Rhahma.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** RHAHMA DWI SEKARSARI
-* **NIM:** 264311028
-* **TTL:** NGANJUK, 31 JULI 2008
-* **Nomer Handphone:** 085852424110
-* **Nama Kelompok:** SVELTE
-* **Asal Daerah:** NGANJUK
-* **Asal Sekolah:** SMKN 1 LENGKONG
-* **Fun Fact:** MINUM TEH GABISA TIDUR
+
 ---
 
 ## 🏫 Kelas 1C
