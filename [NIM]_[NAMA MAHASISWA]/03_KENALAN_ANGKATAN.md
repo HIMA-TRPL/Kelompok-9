@@ -246,6 +246,17 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI
 * **Fun Fact:** Cinta kecap
 
+## [22] 264311017 - JELITA PALUPI KUSUMA WARDANI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017_Jelita.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** JELITA PALUPI KUSUMA WARDANI
+* **NIM:** 264311017
+* **TTL:** SIDOARJO, 17 MARET 2008
+* **Nomer Handphone:** 082331467589
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** SIDOARJO
+* **Asal Sekolah:** SMK SENOPATI SIDOARJO
+* **Fun Fact:** SUKA BUBUDUDU
+
 
 ---
 
