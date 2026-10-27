@@ -201,6 +201,17 @@
 * **Asal Daerah:** NGAWI
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** Baik
+
+### [18] 264311006 - AULIA FATMAWATI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006_Aulia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AULIA FATMAWATI
+* **NIM:** 264311006
+* **TTL:** MADIUN, 09 NOVEMBER_2007
+* **Nomer Handphone:** 08132605112
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** NGAWI
+* **Asal Sekolah:** SMK BP SUBULUL HUDA
+* **Fun Fact:** Tidak Suka Makan Pedas
 ---
 
 ## 🏫 Kelas 1B
