@@ -257,7 +257,16 @@
 * **Asal Sekolah:** SMK SENOPATI SIDOARJO
 * **Fun Fact:** SUKA BUBUDUDU
 
-
+### [23] 264311022 - NAILA AZAHRA FITRI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022_Naila.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NAILA AZAHRA FITRI
+* **NIM:** 264311022
+* **TTL:** BOJONEGORO, 10 OKTOBER 2008
+* **Nomer Handphone:** 081235681140
+* **Nama Kelompok:** FLASK
+* **Asal Daerah:** BOJONEGORO
+* **Asal Sekolah:** SMAN 1 CEPU
+* **Fun Fact:** wallahualam😊🩵
 ---
 
 ## 🏫 Kelas 1B
