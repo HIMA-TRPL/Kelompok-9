@@ -48,9 +48,9 @@
 * **Asal Sekolah:** [SMKN_TAKERAN]
 * **Fun Fact:** [MASA_MUDA_WAJIB_HEALING]
 
-### [05] [264311005] - [ANIS_AL_SOHIB]
+### [05] [264311005] - [ANIS_ALI_SOHIB]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005_ANIS ALI SOHIB.jpeg" alt="Anis Ali Sohib" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [ANIS_AL_SOHIB]
+* **Nama Lengkap:** [ANIS_ALI_SOHIB]
 * **NIM:** [264311005]
 * **TTL:** [MAGETAN_26_MARET_2008]
 * **Nomer Handphone:** [085759339335]
