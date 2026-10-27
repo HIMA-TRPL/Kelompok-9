@@ -223,6 +223,19 @@
 * **Asal Daerah:** MOJOKERTO
 * **Asal Sekolah:** SMAN 1 MOJOSARI
 * **Fun Fact:** love matcha dan capybara💚🤎
+
+### [20] 264311015 - FAKHRIYATUL MUZAKKINA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015_Fakhriyatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** FAKHRIYATUL MUZAKKINA
+* **NIM:** 264311015
+* **TTL:** PROBOLINGGO, 16 JULI 2008
+* **Nomer Handphone:** 08580402815
+* **Nama Kelompok:** SPRING
+* **Asal Daerah:** PROBOLINGGO
+* **Asal Sekolah:** SMKN 2 KRAKSAAN
+* **Fun Fact:** ga bisa tidur klo ga nyetel musik
+
+
 ---
 
 ## 🏫 Kelas 1B
