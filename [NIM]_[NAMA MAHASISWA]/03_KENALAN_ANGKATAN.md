@@ -212,6 +212,17 @@
 * **Asal Daerah:** NGAWI
 * **Asal Sekolah:** SMK BP SUBULUL HUDA
 * **Fun Fact:** Tidak Suka Makan Pedas
+
+### [19] 264311007 - AURELYSTA BUNGA DHIAS MAWARNI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007_Aurelysta.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AURELYSTA BUNGA DHIAS MAWARNI
+* **NIM:** 264311007
+* **TTL:** MOJOKERTO 25 JUNI 2007
+* **Nomer Handphone:** 082141028639
+* **Nama Kelompok:** SPRING
+* **Asal Daerah:** MOJOKERTO
+* **Asal Sekolah:** SMAN 1 MOJOSARI
+* **Fun Fact:** love matcha dan capybara💚🤎
 ---
 
 ## 🏫 Kelas 1B
