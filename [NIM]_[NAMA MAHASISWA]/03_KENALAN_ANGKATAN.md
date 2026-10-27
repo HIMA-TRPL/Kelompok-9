@@ -946,3 +946,4 @@
 * **Asal Daerah:** [MAGETAN]
 * **Asal Sekolah:** [SMAN_1_KARAS]
 * **Fun Fact:** [SUKA_KOPI_AMERICANO]
+
