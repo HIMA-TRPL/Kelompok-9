@@ -267,6 +267,17 @@
 * **Asal Daerah:** BOJONEGORO
 * **Asal Sekolah:** SMAN 1 CEPU
 * **Fun Fact:** wallahualam😊🩵
+
+### [24] 264311023 - NASHWA NADIA NURLATIFA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023_Nashwa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NAILA AZAHRA FITRI
+* **NIM:** 264311022
+* **TTL:** BOJONEGORO, 31 MARET 2008
+* **Nomer Handphone:** 083117678815
+* **Nama Kelompok:** SPRING
+* **Asal Daerah:** BOJONEGORO
+* **Asal Sekolah:** SMAN 5 TARUNA BRAWIJAYA
+* **Fun Fact:** lagi rewatch marvel💚
 ---
 
 ## 🏫 Kelas 1B
