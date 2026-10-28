@@ -8,7 +8,7 @@
 * **Nama Kelompok:** Kelompok 9 RAILS
 * **Asal Daerah:** Kota Madiun
 * **Asal Sekolah:** SMAN 5 Kota Madiun
-* **Fun Fact:** Full star MOC, F2P btw
+* **Fun Fact:** gk suka makan pedes
 
 ---
 
