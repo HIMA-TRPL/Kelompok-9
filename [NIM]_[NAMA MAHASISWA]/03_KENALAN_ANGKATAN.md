@@ -761,7 +761,7 @@
 * **Fun Fact:** SUKA MIE AYAM
 
 ### 69 264311069 - Ghaza Zaidan Al-ghifari
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/ghaza.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ghaza Zaidan Al-ghifari
 * **NIM:** 264311069
 * **TTL:** Madiun, 31 Oktober 2007
@@ -794,7 +794,7 @@
 * **Fun Fact:** SUKA MAIN FUTSAL, GAME
 
 ### 72 264311072 - Izzata Wihanangku
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/izata.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Izzata Wihanangku
 * **NIM:** 264311072
 * **TTL:** Ponorogo, 06 Agustus 2007
