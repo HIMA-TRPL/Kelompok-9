@@ -202,7 +202,18 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** Baik
 
-### [18] 264311006 - AULIA FATMAWATI
+### [18] 264311010 - Dava Al Mustoffa Dachlan
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010_Dava.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Dava Al Mustoffa Dachlan
+* **NIM:** 264311010
+* **TTL:** Magetan, 17 Maret 2007
+* **Nomer Handphone:** 087840888211
+* **Nama Kelompok:** Svelte
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMAN 1 GEGER
+* **Fun Fact:** Cool
+
+### [19] 264311006 - AULIA FATMAWATI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006_Aulia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AULIA FATMAWATI
 * **NIM:** 264311006
@@ -213,7 +224,7 @@
 * **Asal Sekolah:** SMK BP SUBULUL HUDA
 * **Fun Fact:** Tidak Suka Makan Pedas
 
-### [19] 264311007 - AURELYSTA BUNGA DHIAS MAWARNI
+### [20] 264311007 - AURELYSTA BUNGA DHIAS MAWARNI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007_Aurelysta.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AURELYSTA BUNGA DHIAS MAWARNI
 * **NIM:** 264311007
@@ -224,7 +235,7 @@
 * **Asal Sekolah:** SMAN 1 MOJOSARI
 * **Fun Fact:** love matcha dan capybara💚🤎
 
-### [20] 264311015 - FAKHRIYATUL MUZAKKINA
+### [21] 264311015 - FAKHRIYATUL MUZAKKINA
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015_Fakhriyatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FAKHRIYATUL MUZAKKINA
 * **NIM:** 264311015
@@ -235,7 +246,7 @@
 * **Asal Sekolah:** SMKN 2 KRAKSAAN
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
-### [21] 264311016 - FATIKHA ARTEMISIA
+### [22] 264311016 - FATIKHA ARTEMISIA
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016_Fatikha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FATIKHA ARTEMISIA
 * **NIM:** 264311016
@@ -246,7 +257,7 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI
 * **Fun Fact:** Cinta kecap
 
-### [22] 264311017 - JELITA PALUPI KUSUMA WARDANI
+### [23] 264311017 - JELITA PALUPI KUSUMA WARDANI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017_Jelita.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** JELITA PALUPI KUSUMA WARDANI
 * **NIM:** 264311017
@@ -257,7 +268,7 @@
 * **Asal Sekolah:** SMK SENOPATI SIDOARJO
 * **Fun Fact:** SUKA BUBUDUDU
 
-### [23] 264311022 - NAILA AZAHRA FITRI
+### [24] 264311022 - NAILA AZAHRA FITRI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022_Naila.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NAILA AZAHRA FITRI
 * **NIM:** 264311022
@@ -268,7 +279,7 @@
 * **Asal Sekolah:** SMAN 1 CEPU
 * **Fun Fact:** wallahualam😊🩵
 
-### [24] 264311023 - NASHWA NADIA NURLATIFA
+### [25] 264311023 - NASHWA NADIA NURLATIFA
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023_Nashwa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NAILA AZAHRA FITRI
 * **NIM:** 264311022
@@ -279,7 +290,7 @@
 * **Asal Sekolah:** SMAN 5 TARUNA BRAWIJAYA
 * **Fun Fact:** lagi rewatch marvel💚
 
-### [25] 264311024 - NGAZIMATUL KHUSNA
+### [26] 264311024 - NGAZIMATUL KHUSNA
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024_Ngazimatul.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NAILA AZAHRA FITRI
 * **NIM:** 264311024
@@ -290,7 +301,7 @@
 * **Asal Sekolah:** MAS  AL-ISLAM JORESAN PONOROGO
 * **Fun Fact:** Bisa tidur berdiri
 
-### [26] 264311028 - RHAHMA DWI SEKARSARI
+### [27] 264311028 - RHAHMA DWI SEKARSARI
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028_Rhahma.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RHAHMA DWI SEKARSARI
 * **NIM:** 264311028
@@ -300,6 +311,17 @@
 * **Asal Daerah:** NGANJUK
 * **Asal Sekolah:** SMKN 1 LENGKONG
 * **Fun Fact:** MINUM TEH GABISA TIDUR
+
+  ### [28] 264311030 - Zahro Choirun Latifah
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030_zahro.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Zahro Choirun Latifah
+* **NIM:** 264311030
+* **TTL:** Madiun, 15 Mei 2007
+* **Nomer Handphone:** 089622274040
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** MAN 1 KOTA MADIUN
+* **Fun Fact:** suka debat
 ---
 
 ## 🏫 Kelas 1B
