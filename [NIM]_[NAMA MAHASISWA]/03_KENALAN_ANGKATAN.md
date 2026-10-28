@@ -312,8 +312,8 @@
 * **Asal Sekolah:** SMKN 1 LENGKONG
 * **Fun Fact:** MINUM TEH GABISA TIDUR
 
-  ### [28] 264311030 - Zahro Choirun Latifah
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030_zahro.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [28] 264311030 - Zahro Choirun Latifah
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030_Zahro.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zahro Choirun Latifah
 * **NIM:** 264311030
 * **TTL:** Madiun, 15 Mei 2007
