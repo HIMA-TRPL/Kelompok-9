@@ -236,7 +236,7 @@
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
 ### [21] 264311016 - FATIKHA ARTEMISIA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015_Fatikha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016_Fatikha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FATIKHA ARTEMISIA
 * **NIM:** 264311016
 * **TTL:** MAGETAN, 16 DESEMBER 2007
