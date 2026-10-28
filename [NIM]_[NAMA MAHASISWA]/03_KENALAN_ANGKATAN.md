@@ -59,16 +59,16 @@
 * **Asal Sekolah:** SMKN 2 MAGETAN
 * **Fun Fact:** Karina AESPA MBG (my bini gw)
 
-### [06] 264311010 - DAVA AL MUSTOFFA DACHLAN    
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010_Dava.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** DAVA AL MUSTOFFA DACHLAN
-* **NIM:** 264311010
-* **TTL:** MAGETAN, 17 MARET 2007
-* **Nomer Handphone:** 087840888211
-* **Nama Kelompok:** SVELTE
+### [06] 264311011 - Dhafin Hasya Zaki    
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311011_Dafin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Dhafin Hasya Zaki
+* **NIM:** 264311011
+* **TTL:** Madiun, 28 Juli 2007
+* **Nomer Handphone:** 089699247978
+* **Nama Kelompok:** SPRING
 * **Asal Daerah:** MADIUN 
-* **Asal Sekolah:** SMAN 1 GEGER
-* **Fun Fact:** Cool
+* **Asal Sekolah:** SMAN 5 MADIUN
+* **Fun Fact:** RACING ABIEZ
 
 ### [07] 264311009 - BRAMANTA SETYA BAGASKARA 
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009_Bagas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
