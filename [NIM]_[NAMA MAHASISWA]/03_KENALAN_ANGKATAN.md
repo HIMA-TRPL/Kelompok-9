@@ -583,7 +583,7 @@
 * **NIM:** 264311054
 * **TTL:** MADIUN, 22 FEBRUARI 2008
 * **Nomer Handphone:** 085724871983
-* **Nama Kelompok:** -
+* **Nama Kelompok:** FLASK
 * **Asal Daerah:** KAB.MADIUN
 * **Asal Sekolah:** SMKS Al-Basyariyah
 * **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
