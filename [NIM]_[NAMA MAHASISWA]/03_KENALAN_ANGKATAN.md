@@ -476,7 +476,7 @@
 * **Nama Kelompok:** FLUTTER
 * **Asal Daerah:** BREBES
 * **Asal Sekolah:** SMA BUDI UTOMO SURAKARTA
-* **Fun Fact:** -
+* **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
 ### [44] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_Keylila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
