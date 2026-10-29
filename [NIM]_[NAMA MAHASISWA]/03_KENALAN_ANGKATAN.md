@@ -661,7 +661,7 @@
 ## 🏫 Kelas 1C
 
 ### [60] [264311060] - [ADAM_CHESTA_ADITIO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060 - ADAM_CHESTA_ADITIO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060-ADAM_CHESTA_ADITIO.jpeg" alt="Foto Adam Chesta" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADAM_CHESTA_ADITIO]
 * **NIM:** [264311060]
 * **TTL:** [BLITAR_10_SEPTEMBER_2007]
@@ -672,7 +672,7 @@
 * **Fun Fact:** [HUMAN_MALE]
 
 ### [61] [264311061] - [AULIA_KURNIAWATI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311061 - AULIA_KURNIAWATI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311061-AULIA_KURNIAWATI.jpeg" alt="Foto Aulia Kurniawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AULIA_KURNIAWATI]
 * **NIM:** [264311061]
 * **TTL:** [MADIUN_15_DESEMBER_2007]
@@ -683,7 +683,7 @@
 * **Fun Fact:** [SUKA_HAL_HAL_SIMPEL]
 
 ### [62] [264311062] - [AZZAM_FAUZY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062 - AZZAM_FAUZY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062_AZZAM_FAUZY.jpeg" alt="Foto Azzam Fauzy" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AZZAM_FAUZY]
 * **NIM:** [264311062]
 * **TTL:** [MAGETAN_24 JANUARI 2008]
@@ -694,7 +694,7 @@
 * **Fun Fact:** [BAIK_HATI]
 
 ### [63] [264311063] - [BILQIS_AUDYNOVA_PRASANTY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311063 - BILQIS_AUDYNOVA_PRASANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311063_BILQIS_AUDYNOVA_PRASANTI.jpeg" alt="Foto Bilqis Audynova" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BILQIS_AUDYNOVA_PRASANTY]
 * **NIM:** [264311063]
 * **TTL:** [KOTA_MADIUN_14_NOVEMBER_2007]
