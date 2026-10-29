@@ -694,7 +694,7 @@
 * **Fun Fact:** [BAIK_HATI]
 
 ### [63] [264311063] - [BILQIS_AUDYNOVA_PRASANTY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311063_BILQIS_AUDYNOVA_PRASANTY.jpeg" alt="Foto Bilqis" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/main/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/MAHASISWA_BARU/Kelas_1C/264311063_BILQIS_AUDYNOVA_PRASANTY.jpeg" alt="Foto Bilqis" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BILQIS_AUDYNOVA_PRASANTY]
 * **NIM:** [264311063]
 * **TTL:** [KOTA_MADIUN_14_NOVEMBER_2007]
@@ -716,7 +716,7 @@
 * **Fun Fact:** [SUKA_WANGINYA_STELA_JERUK]
 
 ### [65] [264311065] - [CORNELIA_NASYWA_PUJI_AGUSTIN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311065_CORNELIA_NASYWA_PUJI_ASTUTI.jpeg" alt="Foto Cornelia Nasywa" style="object-fit:cover" width="300px" height="300px">
+* <img src="[NIM]_[NAMA MAHASISWA]/assets/MAHASISWA_BARU/Kelas_1C/264311065_CORNELIA_NASYWA_PUJI_AGUSTIN.jpeg" alt="Foto Cornelia Nasywa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [CORNELIA_NASYWA_PUJI_AGUSTIN]
 * **NIM:** [264311065]
 * **TTL:** [MAGETAN_28_APRIL_2007]
