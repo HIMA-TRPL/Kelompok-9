@@ -670,7 +670,7 @@
 * **Fun Fact:** Suka hal hal simpel
 
 ### [61] 264311062 - Azzam Fauzy
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062_Azzam.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062 _Azzam.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Azzam Fauzy
 * **NIM:** 264311062
 * **TTL:** Magetan, 24 Januari 2008
