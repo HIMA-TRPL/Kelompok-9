@@ -694,7 +694,7 @@
 * **Fun Fact:** [BAIK_HATI]
 
 ### [63] [264311063] - [BILQIS_AUDYNOVA_PRASANTY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311063_BILQIS_AUDYNOVA_PRASANTI.jpeg" alt="Foto Bilqis Audynova" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311063_BILQIS_AUDYNOVA_PRASANTY.jpeg" alt="Foto Bilqis" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BILQIS_AUDYNOVA_PRASANTY]
 * **NIM:** [264311063]
 * **TTL:** [KOTA_MADIUN_14_NOVEMBER_2007]
