@@ -681,7 +681,7 @@
 * **Fun Fact:** JAGO NULIS TANGAN KIRI
 
 ### [62] 264311064 - Cindika Zahira Thitania Putri
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311064_CINDIKA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311064_CINDIKA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Cindika Zahira Thitania Putri
 * **NIM:** 264311064
 * **TTL:** Kota Madiun, 23 Februari 2008
@@ -747,7 +747,7 @@
 * **Fun Fact:** SAYA ORANGNYA PENDIAM
 
 ### [68] 264311070 - Ikhzaniero Ardyana Juniar
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070_Ikhzanihero.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070_Ikhzanihero.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ikhzaniero Ardyana Juniar
 * **NIM:** 264311070
 * **TTL:** Magetan, 07 Juni 2007
