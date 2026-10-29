@@ -229,11 +229,11 @@
 ### [22] PSDM - AZZA AULIYAUL F.
 * <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AZZA AULIYAUL F.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:**  Anggota PSDM
+* **TTL:**  Madiun, 19 November 2005
+* **Nomer Handphone:**  089523358721
+* **Username GitHub:**  @azzaauliyaul
+* **Asal Daerah:**  Rejosari, Sawahan, Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -253,11 +253,11 @@
 ### [24] Sosma - MUHAMMAD ROFIQUL ANAM
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.jpg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD ROFIQUL ANAM
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:**  Anggota Sosma
+* **TTL:**  Magetan, 05 Maret 2006
+* **Nomer Handphone:**  085850296348
+* **Username GitHub:**  @RofiqAnam
+* **Asal Daerah:**  Magetan
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - EDWIN NUR CAHYO
@@ -361,11 +361,11 @@
 ### [34] DKM - ANDRIAN MAULANA
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ANDRIAN MAULANA
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Koordinator DKM
+* **TTL:**  Ponorogo, 19 September 2005
+* **Nomer Handphone:**  089524151260
+* **Username GitHub:**  @driannmlnaa
+* **Asal Daerah:**   Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - JIMLI DWI ASSIDDIQI
@@ -467,7 +467,7 @@
 * **Nama Panitia:** ERVINDY ANJUNI NURMASARI
 * **Jabatan:** VOLUNTEER (KONSUMSI)
 * **TTL:** MADIUN, 21 JUNI 2006
-* **Nomer Handphone:** -
+* **Nomer Handphone:** 085733213487
 * **Username GitHub:** @erov1n
 * **Asal Daerah:** MADIUN
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
