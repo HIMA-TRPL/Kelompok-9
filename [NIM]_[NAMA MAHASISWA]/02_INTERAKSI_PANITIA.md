@@ -351,7 +351,7 @@
 * **TTL:** MADIUN, 09 SEPTEMBER 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
-* **Asal Daerah:** -
+* **Asal Daerah:**  Madiun
 <!-- Line Comment TTD Panitia 33 wajib ditargetkan pada baris komentar ini -->
 
 ---
