@@ -771,7 +771,7 @@
 * **Fun Fact:** [SAYA_ORANGNYA_PENDIAM]
 
 ### [70] [264311070] - [IKHZANIERO_ARDYANA_JUNIAR]
-*<img src="assets/MAHASISWA_BARU/Kelas_1C/264311070_IKHZANIERO_ARDYANA_JULIAN.jpeg" alt="Foto Ikhzanieiro Ardyana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070_IKHZANIERO_ARDYANA_JULIAN.jpeg" alt="Foto Ikhzanieiro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [IKHZANIERO_ARDYANA_JUNIAR]
 * **NIM:** [264311070]
 * **TTL:** [MAGETAN_07_JUNI_2007]
@@ -793,7 +793,7 @@
 * **Fun Fact:** [SUKA_MAIN_FUTSAL_GAME]
 
 ### [72] [264311072] - [IZZATA_WIHANANGKU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311072 - IZZATA_WIHANANGKU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311072_IZZATA_WIHANANGKU.jpeg" alt="Foto Izzata Wihanangku" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [IZZATA_WIHANANGKU]
 * **NIM:** [264311072]
 * **TTL:** [PONOROGO_06_AGUSTUS_2007]
@@ -825,135 +825,147 @@
 * **Asal Sekolah:** [SMKN_1_BADEGAN]
 * **Fun Fact:** [SUKA_MOTORAN_SORE-SORE]
 
-### [75] [264311076] - [MUHAMMAD_ANDY_DWI_SUBANDI]
+### 75 264311075 - Muhammad Ahnaf Ghifari
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311075_MUHAMMAD_AHNAF_GHIFARI.jpeg" alt="Foto Muhammad Ahnaf" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [MUHAMMAD_ANDY_DWI_SUBANDI]
-* **NIM:** [264311076]
-* **TTL:** [PONOROGO_7_MARET_2007]
-* **Nomer Handphone:** [085852516815]
-* **Nama Kelompok:** [EXPRESS]
-* **Asal Daerah:** [PONOROGO]
-* **Asal Sekolah:** [SMK_PGRI_2_PONOROGO]
-* **Fun Fact:** [SARAPAN_KOPI_IRENK]
+* **Nama Lengkap:** Muhammad Ahnaf Ghifari
+* **NIM:** 264311075
+* **TTL:** Kediri, 13 April 2008
+* **Nomer Handphone:** 085695534015
+* **Nama Kelompok:** Flutter
+* **Asal Daerah:** Kab. Bogor
+* **Asal Sekolah:** SMAN 1 BOJONG GEDE
+* **Fun Fact:** ASLINYA RAMAH
 
-### [76] [264311077] - [MUHAMMAD_ZAKIY_FUADIY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077 - MUHAMMAD_ZAKIY_FUADIY.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [MUHAMMAD_ZAKIY_FUADIY]
-* **NIM:** [264311077]
-* **TTL:** [PACITAN_7_MARET_2006]
-* **Nomer Handphone:** [087786389302]
-* **Nama Kelompok:** [VUE]
-* **Asal Daerah:** [PACITAN]
-* **Asal Sekolah:** [MA_NURUL_HADID]
-* **Fun Fact:** [TIDAK_PERNAH_MEMILIKI_NAMA_PANGGILAN_YANG_SAMA_DI_SETIAP_JENJANG_SEKOLAH]
+### 76 264311076 - Muhammad Andy Dwi Subandi
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311076_MUHAMMAD_ANDY_DWI_PUTRA.jpeg" alt="Foto Muhammad Andy" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Muhammad Andy Dwi Subandi
+* **NIM:** 264311076
+* **TTL:** Ponorogo, 7 Maret 2007
+* **Nomer Handphone:** 085852516815
+* **Nama Kelompok:** Express
+* **Asal Daerah:** Ponorogo
+* **Asal Sekolah:** SMK PGRI 2 PONOROGO
+* **Fun Fact:** SARAPAN KOPI IRENK
 
-### [77] [264311078] - [MUTYA_YUWAN_RAMADHANI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311078 - MUTYA_YUWAN_RAMADHANI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [MUTYA_YUWAN_RAMADHANI]
-* **NIM:** [264311078]
-* **TTL:** [PONOROGO_6_OKTOBER_2007]
-* **Nomer Handphone:** [088801521950]
-* **Nama Kelompok:** [ANGULAR]
-* **Asal Daerah:** [PONOROGO]
-* **Asal Sekolah:** [SMKN_1_PONOROGO]
-* **Fun Fact:** [SUKA_wWARNA_HITAM]
+### 77 264311077 - Muhammad Zakiy Fuadiy
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077-MUHAMMAD_ZAKIY_FUADI.jpeg" alt="Foto Muhammad Zakiy" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Muhammad Zakiy Fuadiy
+* **NIM:** 264311077
+* **TTL:** Pacitan, 7 Maret 2006
+* **Nomer Handphone:** 087786389302
+* **Nama Kelompok:** Vue
+* **Asal Daerah:** Pacitan
+* **Asal Sekolah:** MA NURUL HADID
+* **Fun Fact:** Tidak Pernah Memiliki Nama Panggilan Yang Sama Di Setiap Jenjang Sekolah
 
-### [78] [264311079] - [NEISYA_GRAZIA_AULIA_FIRDIANTY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079 - NEISYA_GRAZIA_AULIA_FIRDIANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
-* **NIM:** [264311079]
-* **TTL:** [MADIUN_19_JULI_2007]
-* **Nomer Handphone:** [0881036304858]
-* **Nama Kelompok:** [SYMFONY]
-* **Asal Daerah:** [SIDOARJO]
-* **Asal Sekolah:** [SMA_WACHID_HASYIM_2]
-* **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
+### 78 264311078 - Mutya Yuwan Ramadahni
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311078_MUTYA_YUWAN_RAMADHANI.jpeg" alt="Foto Mutya Yuwan" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Mutya Yuwan Ramadahni
+* **NIM:** 264311078
+* **TTL:** Ponorogo, 6 Oktober 2007
+* **Nomer Handphone:** 088801521950
+* **Nama Kelompok:** Angular
+* **Asal Daerah:** Ponorogo
+* **Asal Sekolah:** SMKN 1 PONOROGO
+* **Fun Fact:** Suka warna hitam
 
-### [79] [264311080] - [NOVA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080 - NOVA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NOVA]
-* **NIM:** [264311080]
-* **TTL:** [BOJONEGORO_3_NOVEMBER_2007]
-* **Nomer Handphone:** [085812498067]
-* **Nama Kelompok:** [VUE]
-* **Asal Daerah:** [BOJONEGORO]
-* **Asal Sekolah:** [SMKN_MARGOMULYO]
-* **Fun Fact:** [SUKA_NYANYI_SAAT_MANDI]
+### 79 264311079 - Neisya Grazia Aulia Firdianty
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079_NEISYA_GRAZIA_AULIA_FIRDAUS.jpeg" alt="Foto Neisya Grazia" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Neisya Grazia Aulia Firdianty
+* **NIM:** 264311079
+* **TTL:** Madiun, 19 Juli 2007
+* **Nomer Handphone:** 0881036304858
+* **Nama Kelompok:** Symfony
+* **Asal Daerah:** Sidoarjo
+* **Asal Sekolah:** SMA WACHID HASYIM 2
+* **Fun Fact:** SUKA NA JAEMIN + CINTA ITS
 
-### [80] [264311081] - [PUTRI_NURHALIZA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081 - PUTRI_NURHALIZA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [PUTRI_NURHALIZA]
-* **NIM:** [264311081]
-* **TTL:** [MADIUN_8_JUNI_2007]
-* **Nomer Handphone:** [087816250793]
-* **Nama Kelompok:** [ANGULAR]
-* **Asal Daerah:** [MADIUN]
-* **Asal Sekolah:** [SMAN_2_MEJAYAN]
-* **Fun Fact:** [PACARKU_BAYAAKKKKKKK]
+### 80 264311080 - Nova
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.jpeg" alt="Foto Nova" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Nova
+* **NIM:** 264311080
+* **TTL:** Bojonegoro, 3 November 2007
+* **Nomer Handphone:** 085812498067
+* **Nama Kelompok:** Vue
+* **Asal Daerah:** Bojonegoro
+* **Asal Sekolah:** SMKN MARGOMULYO
+* **Fun Fact:** SUKA NYANYI SAAT MANDI
 
-### [81] [264311082] - [R. NABIL_WIJAYA_PRATAMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082 - R. NABIL_WIJAYA_PRATAMA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [R. NABIL_WIJAYA_PRATAMA]
-* **NIM:** [264311082]
-* **TTL:** [MAGETAN_9_AGUSTUS_2008]
-* **Nomer Handphone:** [0895328111908]
-* **Nama Kelompok:** [ANGULAR]
-* **Asal Daerah:** [JAKARTA]
-* **Asal Sekolah:** [SMA_PRESTASI_PRIMA]
-* **Fun Fact:** [SUKA_WHEN_YAH]
+### 81 264311081 - Putri Nurhaliza
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081_PUTRI_NURHALIZA.jpeg" alt="Foto Putri Nurhaliza" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Putri Nurhaliza
+* **NIM:** 264311081
+* **TTL:** Madiun, 8 Juni 2007
+* **Nomer Handphone:** 087816250793
+* **Nama Kelompok:** Angular
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMAN 2 MEJAYAN
+* **Fun Fact:** Pacarku banyakkkkkkk
 
-### [82] [264311083] - [SATRIA_PANDU_ADMAJA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083 - SATRIA_PANDU_ADMAJA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
-* **NIM:** [264311083]
-* **TTL:** [PONOROGO_20_APRIL_2008]
-* **Nomer Handphone:** [081386124976]
-* **Nama Kelompok:** [REACT]
-* **Asal Daerah:** [PONOROGO]
-* **Asal Sekolah:** [SMAN_1_BALONG]
-* **Fun Fact:** [SUKA_NGEGAME]
+### 82 264311082 - R. Nabil Wijaya Pratama
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-R._NABIL_WIJAYA_PRATAMA.jpeg" alt="Foto R. Nabil Wijaya" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** R. Nabil Wijaya Pratama
+* **NIM:** 264311082
+* **TTL:** Magetan, 9 Agustus 2008
+* **Nomer Handphone:** 0895328111908
+* **Nama Kelompok:** Angular
+* **Asal Daerah:** Jakarta
+* **Asal Sekolah:** SMA PRESTASI PRIMA
+* **Fun Fact:** SUKA WHEN YAH
 
-### [83] [264311085] - [SYAHGA_REYHAN_SURYA_PRATAMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311085 - SYAHGA_REYHAN_SURYA_PRATAMA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [SYAHGA_REYHAN_SURYA_PRATAMA]
-* **NIM:** [264311085]
-* **TTL:** [SIDOARJO_22_JANUARI_2007]
-* **Nomer Handphone:** [085730290154]
-* **Nama Kelompok:** [FLUTTER]
-* **Asal Daerah:** [MAGETAN]
-* **Asal Sekolah:** [SMKN_TAKERAN]
-* **Fun Fact:** [SUKA_MENDENGRKAN_MUSIK]
+### 83 264311083 - Satria Pandu Admaja
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA_PANDU_ADMAJA.jpeg" alt="Foto Satria Pandu" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Satria Pandu Admaja
+* **NIM:** 264311083
+* **TTL:** Ponorogo, 20 April 2008
+* **Nomer Handphone:** 081386124976
+* **Nama Kelompok:** React
+* **Asal Daerah:** Ponorogo
+* **Asal Sekolah:** SMAN 1 BALONG
+* **Fun Fact:** SUKA NGEGAME
 
-### [84] [264311086] - [VICKY_ADITYA_SURYA_SAMUDRA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086 - VICKY_ADITYA_SURYA_SAMUDRA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [VICKY_ADITYA_SURYA_SAMUDRA]
-* **NIM:** [264311086]
-* **TTL:** [MADIUN_1_JULI_2007]
-* **Nomer Handphone:** [085710849497]
-* **Nama Kelompok:** [REACT]
-* **Asal Daerah:** [MADIUN]
-* **Asal Sekolah:** [SMAN_4_MADIUN]
-* **Fun Fact:** [MEMELIHARA_KAMBING]
+### 84 264311085 - Syahga Reyhan Surya Pratama
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311085_SYAHGA_REYHAN_SURYA_PUTRA.jpeg" alt="Foto Syahga Reyhan" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Syahga Reyhan Surya Pratama
+* **NIM:** 264311085
+* **TTL:** Sidoarjo, 22 Januari 2007
+* **Nomer Handphone:** 085730290154
+* **Nama Kelompok:** Flutter
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMKN TAKERAN
+* **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
-### [85] [264311087] - [YAYA_WINDA_SALMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087 - YAYA_WINDA_SALMA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [YAYA_WINDA_SALMA]
-* **NIM:** [264311087]
-* **TTL:** [MAGETAN_28_DESEMBER_2007]
-* **Nomer Handphone:** [085608642692]
-* **Nama Kelompok:** [REACT]
-* **Asal Daerah:** [MAGETAN]
-* **Asal Sekolah:** [SMAN_1_MAOSPATI]
-* **Fun Fact:** [SUKA_GAMBAR]
+### 85 264311086 - Vicky Aditya Surya Samudra
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086_VICKY_ADITYA_SURYA_SAMPURNA.jpeg" alt="Foto Vicky Aditya" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Vicky Aditya Surya Samudra
+* **NIM:** 264311086
+* **TTL:** Madiun, 1 Juli 2007
+* **Nomer Handphone:** 085710849497
+* **Nama Kelompok:** React
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMAN 4 MADIUN
+* **Fun Fact:** Memelihara Kambing
 
-### [86] [264311088] - [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088 - ZIDAN_ZARAKHI_RIDWAN_HABIBI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
-* **NIM:** [264311088]
-* **TTL:** [MAGETAN_29_APRIL_2008]
-* **Nomer Handphone:** [082331753394]
-* **Nama Kelompok:** [DJANGO]
-* **Asal Daerah:** [MAGETAN]
-* **Asal Sekolah:** [SMAN_1_KARAS]
-* **Fun Fact:** [SUKA_KOPI_AMERICANO]
+### 86 264311087 - Yaya Winda Salma
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087_YAYA_WINDA_SALMA.jpeg" alt="Foto Yaya Winda" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Yaya Winda Salma
+* **NIM:** 264311087
+* **TTL:** Magetan, 28 Desember 2007
+* **Nomer Handphone:** 085608642692
+* **Nama Kelompok:** React
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMAN 1 MAOSPATI
+* **Fun Fact:** suka gambar
 
+### 87 264311088 - Zidan Zarakhi Ridwan Habibi
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088-ZIDAN_ZARAKHI_RIDWAN.jpeg" alt="Foto Zidan Zarakhi" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
+* **NIM:** 264311088
+* **TTL:** Magetan, 29 April 2008
+* **Nomer Handphone:** 082331753394
+* **Nama Kelompok:** Django
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMAN 1 KARAS
+* **Fun Fact:** SUKA KOPI AMERICANO
+
+---
