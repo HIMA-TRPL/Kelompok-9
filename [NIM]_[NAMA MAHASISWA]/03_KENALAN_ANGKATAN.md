@@ -694,7 +694,7 @@
 * **Fun Fact:** [BAIK_HATI]
 
 ### [63] [264311063] - [BILQIS_AUDYNOVA_PRASANTY]
-* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/main/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/MAHASISWA_BARU/Kelas_1C/264311063_BILQIS_AUDYNOVA_PRASANTY.jpeg" alt="Foto Bilqis" style="object-fit:cover" width="300px" height="300px">
+* <img src="/assets/MAHASISWA_BARU/Kelas_1C/264311063_BILQIS_AUDYNOVA PRASANTY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BILQIS_AUDYNOVA_PRASANTY]
 * **NIM:** [264311063]
 * **TTL:** [KOTA_MADIUN_14_NOVEMBER_2007]
@@ -958,7 +958,7 @@
 * **Fun Fact:** suka gambar
 
 ### 87 264311088 - Zidan Zarakhi Ridwan Habibi
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088-ZIDAN_ZARAKHI_RIDWAN.jpeg" alt="Foto Zidan Zarakhi" style="object-fit:cover" width="300px" height="300px">
+* <img src="../assets/MAHASISWA_BARU/Kelas_1C/264311088-ZIDAN_ZARAKHI_RIDWAN_HABIBI.jpeg" alt="Foto Zidan" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
 * **NIM:** 264311088
 * **TTL:** Magetan, 29 April 2008
