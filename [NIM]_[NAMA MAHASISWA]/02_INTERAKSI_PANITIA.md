@@ -450,5 +450,15 @@
 * **Username GitHub:** @nanayaaa
 * **Asal Daerah:** MADIUN
 
+
+### [46] Volunteer - GALANG SURYA PRASETYO
+* <img src="assets/PANITIA/VOLUNTEER/GALANG SURYA PRASETYO.jpeg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** GALANG SURYA PRASETYO
+* **Jabatan:** VOLUNTEER 
+* **TTL:** TENGGARONG, 19 FEBRUARI 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** KALIMANTAN TIMUR
+
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
 > **Catatan Validasi:** Mahasiswa baru dilarang mengubah bagian ini secara manual. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
