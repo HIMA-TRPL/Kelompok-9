@@ -139,7 +139,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - RINDY CANTIKA AGUSTINA P.
-* <img src="assets/PANITIA/VOLUNTEER/RINDY CANTIKA AGUSTINA PUTRI.jpeg" alt="Rindy Cantika Agustina Putri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/RINDY%20CANTIKA%20AGUSTINA%20PUTRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Denpasar, 21 Maret 2006
