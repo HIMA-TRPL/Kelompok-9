@@ -177,7 +177,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - RIYAN ZAKARIA ZULKARNAIN
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.jpg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.jpeg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RIYAN ZAKARIA ZULKARNAIN
 * **Jabatan:** KOORDINATOR PSDM
 * **TTL:** PONOROGO, 07 SEPTEMBER 2005
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - ABDUL AZIZ MUSHTHOFA
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.jpg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.jpeg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ABDUL AZIZ MUSHTHOFA
 * **Jabatan:** STAFF MUDA PSDM / KETUPEL
 * **TTL:** TULUNGAGUNG, 13 APRIL 2006
