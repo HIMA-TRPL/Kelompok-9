@@ -4,7 +4,7 @@
 * **Nama Lengkap:** Anatasya Silvia Monica
 * **NIM:** 264311037
 * **TTL:** Magetan, 5 Juni 2008
-* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nomer Handphone:** 085129127452
 * **Nama Kelompok:** Rails
 * **Asal Daerah:** Magetan
 * **Asal Sekolah:** SMAN 1 Sukomoro
