@@ -317,11 +317,11 @@
 ### [30] PDD - RAIHAN FIRDAUS ALFARITSI
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpeg" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RAIHAN FIRDAUS ALFARITSI
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** ANGGOTA PDD
+* **TTL:**  24 September 2005
+* **Nomer Handphone:**  0895405971849
+* **Username GitHub:**  hannnzu
+* **Asal Daerah:** NGAWI
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - ACHMAD ALVIN AL FALAH
