@@ -286,7 +286,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - ANDRIAN MAULANA
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/ANDRIAN MAULANA.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ANDRIAN MAULANA
 * **Jabatan:** Koordinator DKM
 * **TTL:**  Ponorogo, 19 September 2005
