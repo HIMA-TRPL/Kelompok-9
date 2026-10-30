@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - NAILA ZAHRA YASMINE
-* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.jpg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.jpeg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NAILA ZAHRA YASMINE
 * **Jabatan:** SEKRETARIS 2
 * **TTL:** MADIUN, 09 OKTOBER 2006
