@@ -222,11 +222,11 @@
 ### [-] Sosma - Muhammad Rofiqul Anam (DIHAPUS)
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** ANGGOTA SOSMA
+* **TTL:** MAGETAN, 05 MARET 2006
+* **Nomer Handphone:** 085850296348
+* **Username GitHub:** @RofiqAnam
+* **Asal Daerah:** MAGETAN
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -259,7 +259,7 @@
 * **Jabatan:** ANGGOTA
 * **TTL:** 24 SEPTEMBER 2005
 * **Nomer Handphone:** 0895405971849
-* **Username GitHub:** hannnzu
+* **Username GitHub:** @hannnzu
 * **Asal Daerah:** NGAWI
 
 
