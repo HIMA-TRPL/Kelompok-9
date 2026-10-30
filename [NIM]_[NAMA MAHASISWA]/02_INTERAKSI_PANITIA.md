@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - KUNNI SOFA RAHMAYANI
-* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.jpeg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** KUNNI SOFA RAHMAYANI
 * **Jabatan:** VOLUNTEER
 * **TTL:** MADIUN, 04 JULI 2006
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - AISYAH NUR FADILLAH
-* <img src="assets/PANITIA/Volunteer/Volunteer - Aisyah Nur Fadillah.jpg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Aisyah Nur Fadillah.jpeg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AISYAH NUR FADILLAH
 * **Jabatan:** VOLUNTEER (KOMDIS)
 * **TTL:** MAGETAN, 21 SEPTEMBER 2006
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - NABIL SUNU WIDYA DHANA
-* <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widya Dhana.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widya Dhana.jpeg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NABIL SUNU WIDYA DHANA
 * **Jabatan:** VOLUNTEER
 * **TTL:** BEKASI, 15 MARET 2006
@@ -463,7 +463,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - ERVINDY ANJUNI NURMASARI
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ERVINDY ANJUNI NURMASARI
 * **Jabatan:** VOLUNTEER (KONSUMSI)
 * **TTL:** MADIUN, 21 JUNI 2006
@@ -473,6 +473,16 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ---
+
+### [45] Volunteer - Galang Surya Prasetya
+* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetya
+* **Jabatan:** Volunteer (....)
+* **TTL:** Tenggarong, 19 February 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** Kalimantan Timur
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
