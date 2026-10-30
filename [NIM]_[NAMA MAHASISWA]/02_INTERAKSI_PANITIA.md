@@ -54,7 +54,7 @@
 * **Asal Daerah:** DAGANGAN, KAB. MADIUN
 
 ### [06] BPH - DHEA NOVIKA
-* 
+* <img src="assets/PANITIA/BPH/DHEA NOVIKA.jpeg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DHEA NOVIKA
 * **Jabatan:** BENDAHARA 2
 * **TTL:** MADIUN, 13 NOVEMBER 2006
