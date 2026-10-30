@@ -346,7 +346,50 @@
 
 ---
 
+## 🏛️ Divisi HUMAS ( Hubungan Masyarakat )
+
+### [12] Humas - ADAM NOVERIAN
+* <img src="assets/PANITIA/HUMAS/ADAM NOVERIAN.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** ADAM NOVERIAN
+* **Jabatan:** KETUA HUMAS
+* **TTL:** SURABAYA, 08 NOVEMBER 2005
+* **Nomer Handphone:** 085113168995
+* **Username GitHub:** @Swipezz
+* **Asal Daerah:** SURABAYA
+
+
+### [13] Humas - MUHAMMAD RAUFA HAFID WIDODO
+* <img src="assets/PANITIA/HUMAS/MUHAMMAD RAUFA HAFID WIDODO.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
+* **Jabatan:** ANGGOTA HUMAS
+* **TTL:** MADIUN, 26 SEPTEMBER 2005
+* **Nomer Handphone:** 081234980698
+* **Username GitHub:** @Suppanikka
+* **Asal Daerah:** KAB. MADIUN
+
+
+### [15] Humas - CRISTIAN REYNALDI
+* <img src="assets/PANITIA/HUMAS/CRISTIAN REYNALDI.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** CRISTIAN REYNALDI
+* **Jabatan:** PERKAP
+* **TTL:** JAKARTA, 18 JANUARI 2007
+* **Nomer Handphone:** 088296706471
+* **Username GitHub:** @crysaldi
+* **Asal Daerah:** JAKARTA
+
+
+### [16] Humas - ATHA ARYASATYA
+* <img src="assets/PANITIA/HUMAS/ATHA ARYASATYA.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** ATHA ARYASATYA
+* **Jabatan:** STAFF HUMAS
+* **TTL:** MADIUN, 22 FEBRUARI 2005
+* **Nomer Handphone:** 089608188727
+* **Username GitHub:** @athaaryasatya
+* **Asal Daerah:** MADIUN
+
 ---
+
+## 🏛️ Volunteer
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
 > **Catatan Validasi:** Mahasiswa baru dilarang mengubah bagian ini secara manual. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
