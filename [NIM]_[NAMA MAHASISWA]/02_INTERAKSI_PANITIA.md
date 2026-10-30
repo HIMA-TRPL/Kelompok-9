@@ -477,7 +477,7 @@
 ### [45] Volunteer - Galang Surya Prasetya
 * <img src="assets/PANITIA/VOLUNTEER/Volunteer - Galang Surya Prasetya.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetya
-* **Jabatan:** Volunteer (....)
+* **Jabatan:** Volunteer 
 * **TTL:** Tenggarong, 19 February 2007
 * **Nomer Handphone:** 081247074623
 * **Username GitHub:** @PrassHere
