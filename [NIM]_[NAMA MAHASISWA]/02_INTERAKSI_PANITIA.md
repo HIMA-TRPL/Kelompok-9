@@ -139,7 +139,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - RINDY CANTIKA AGUSTINA P.
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/RINDY%20CANTIKA%20AGUSTINA%20PUTRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/RINDY%20CANTIKA%20AGUSTINA%20PUTRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Denpasar, 21 Maret 2006
@@ -188,16 +188,6 @@
 * **Username GitHub:** @anggiwahyu88
 * **Asal Daerah:** TULUNGAGUNG
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
-
-### [24] Sosma - MUHAMMAD ROFIQUL ANAM
-* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.jpg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** MUHAMMAD ROFIQUL ANAM
-* **Jabatan:**  Anggota Sosma
-* **TTL:**  Magetan, 05 Maret 2006
-* **Nomer Handphone:**  085850296348
-* **Username GitHub:**  @RofiqAnam
-* **Asal Daerah:**  Magetan
-<!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - EDWIN NUR CAHYO
 * <img src="assets/PANITIA/Sosma/EDWIN NURCAHYO.jpeg" alt="Edwin Nurcahyo" style="object-fit:cover" width="300px" height="300px">
