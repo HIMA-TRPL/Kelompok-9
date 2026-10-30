@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - MOHAMMAD DANI TAUFIQURROHMAN
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..jpg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM_ MOHAMMAD DANI.jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MOHAMMAD DANI TAUFIQURROHMAN
 * **Jabatan:** ANGGOTA PSDM
 * **TTL:** DENPASAR, 21 MARET 2006
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - RINDY CANTIKA AGUSTINA P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM_RINDY CANTIKA PUTRI.jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Denpasar, 21 Maret 2006
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - TIARA MAYA LESTARI
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.jpg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM_TIARA MAYA LESTARI.jpeg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** TIARA MAYA LESTARI
 * **Jabatan:** ANGGOTA PSDM
 * **TTL:** NGANJUK, 11 MARET 2006
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - AZZA AULIYAUL F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM_AZZA AULIATUL.jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AZZA AULIYAUL F.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Madiun, 19 November 2005
