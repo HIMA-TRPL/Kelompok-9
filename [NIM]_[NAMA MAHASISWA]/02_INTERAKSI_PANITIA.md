@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - FIRDAUS ILHAM F.
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..jpeg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** FIRDAUS ILHAM F.
 * **Jabatan:** ANGGOTA
 * **TTL:** MADIUN, 01 JANUARI 2007
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - BANGKIT CAHYA LINUWIH
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpeg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** BANGKIT CAHYA LINUWIH
 * **Jabatan:** STAFF MUDA DAGRI
 * **TTL:** PACITAN, 02 APRIL 2006
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - NADIA TIFARA SIDIQ
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S.jpeg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NADIA TIFARA SIDIQ
 * **Jabatan:** SIE ACARA
 * **TTL:** MADIUN, 27 DESEMBER 2005
