@@ -180,7 +180,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - ANGGI WAHYU SAPUTRA
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/ANGGI WAHYU SAPUTRA.jpeg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ANGGI WAHYU SAPUTRA
 * **Jabatan:** KOORDINATOR SOSMA
 * **TTL:** TULUNGAGUNG, 14 JUNI 2005
@@ -200,7 +200,7 @@
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - EDWIN NUR CAHYO
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.jpg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/EDWIN NURCAHYO.jpeg" alt="Edwin Nurcahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** EDWIN NUR CAHYO
 * **Jabatan:** ANGGOTA SOSMA
 * **TTL:** DAGANGAN, MADIUN, 01 NOVEMBER 2006
@@ -210,7 +210,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - MUHSYAM FAHRIEL S.
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/MUHSYAM FAHRIEL SEPTIANSYAH.jpeg" alt="Muhsyam Fahriel Septiansyah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHSYAM FAHRIEL S.
 * **Jabatan:** ANGGOTA SOSMA
 * **TTL:** NGAWI, 25 SEPTEMBER 2005
@@ -220,7 +220,7 @@
 
 
 ### [27] Sosma - LUTFILAH AHMAD
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/LUTFILAH AHMAD.jpeg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** LUTFILAH AHMAD
 * **Jabatan:** STAFF MUDA
 * **TTL:** MAGETAN, 30 JANUARI 2007
