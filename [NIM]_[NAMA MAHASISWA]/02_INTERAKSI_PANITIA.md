@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - JIMLI DWI ASSIDDIQI
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_JIMLI DWI ASSIDDIQI.jpeg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** JIMLI DWI ASSIDDIQI
 * **Jabatan:** PERKAP
 * **TTL:** MOJOKERTO, 29 JULI 2006
