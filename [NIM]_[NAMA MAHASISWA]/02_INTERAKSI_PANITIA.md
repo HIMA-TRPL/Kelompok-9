@@ -472,8 +472,25 @@
 * **Asal Daerah:** MADIUN
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
----
+### [45] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER_GALANG SURYA.jpeg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer
+* **TTL:** Madiun, 19 Februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** kalimantan timur
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
+### [46] Volunteer - NADYA NUR KAMILA
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER_NADYA NUR KAMILA.jpeg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** NADYA NUR KAMILA
+* **Jabatan:** VOLUNTEER 
+* **TTL:** MADIUN, 1 SEPTEMBER 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
+* **Asal Daerah:** MADIUN
+---
 ---
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
