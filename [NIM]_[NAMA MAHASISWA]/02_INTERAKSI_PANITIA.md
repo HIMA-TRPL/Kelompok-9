@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - [NAMA_PANITIA_01]
-* <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/ALIVIA RIZKA WARDANI.jpeg" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_01]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
