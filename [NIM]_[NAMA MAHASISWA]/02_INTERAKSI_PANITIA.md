@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - NADIA TIFARA SIDIQ
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..jpeg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S.jpeg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NADIA TIFARA SIDIQ
 * **Jabatan:** SIE ACARA
 * **TTL:** MADIUN, 27 DESEMBER 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - MUHAMMAD RAUFA HAFID WIDODO
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
 * **Jabatan:** ANGGOTA HUMAS
 * **TTL:** MADIUN, 26 SEPTEMBER 2005
@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - MOHAMMAD DANI TAUFIQURROHMAN
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T.jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MOHAMMAD DANI TAUFIQURROHMAN
 * **Jabatan:** ANGGOTA PSDM
 * **TTL:** DENPASAR, 21 MARET 2006
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - RINDY CANTIKA AGUSTINA P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P.jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Denpasar, 21 Maret 2006
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - AZZA AULIYAUL F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F.jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AZZA AULIYAUL F.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Madiun, 19 November 2005
@@ -325,7 +325,7 @@
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - ACHMAD ALVIN AL FALAH
-* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.jpeg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ACHMAD ALVIN AL FALAH
 * **Jabatan:** PJ
 * **TTL:** PONOROGO, 18 JANUARI 2006
@@ -335,7 +335,7 @@
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - DAFFA HAFIST ATHA KUNCORO
-* <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.jpeg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DAFFA HAFIST ATHA KUNCORO
 * **Jabatan:** STAFF MUDA
 * **TTL:** SURABAYA, 16 JANUARI 2007
@@ -345,7 +345,7 @@
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
 
 ### [33] PDD - DINDA RAHMAWATI
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.jpg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.jpeg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DINDA RAHMAWATI
 * **Jabatan:** STAFF MUDA
 * **TTL:** MADIUN, 09 SEPTEMBER 2006
@@ -359,7 +359,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - ANDRIAN MAULANA
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ANDRIAN MAULANA
 * **Jabatan:** Koordinator DKM
 * **TTL:**  Ponorogo, 19 September 2005
@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - JIMLI DWI ASSIDDIQI
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.jpeg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** JIMLI DWI ASSIDDIQI
 * **Jabatan:** PERKAP
 * **TTL:** MOJOKERTO, 29 JULI 2006
@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - DHEANDRA KHAIRUNNISA P.
-* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa P..jpg" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa P.jpeg" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DHEANDRA KHAIRUNNISA P.
 * **Jabatan:** SIE KESEHATAN
 * **TTL:** MADIUN, 27 SEPTEMBER 2005
@@ -389,7 +389,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] DKM - SEKAR PURWITA ASRI
-* <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.jpg" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.jpeg" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SEKAR PURWITA ASRI
 * **Jabatan:** ANGGOTA DKM
 * **TTL:** MAGETAN, 15 JULI 2006
@@ -399,7 +399,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] DKM - SILFINA NUR FADILAH
-* <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.jpg" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.jpeg" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SILFINA NUR FADILAH
 * **Jabatan:** ANGGOTA DKM
 * **TTL:** MAGETAN, 02 OKTOBER 2006
@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - SEPTIAN ANGGA SAPUTRA
-* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SEPTIAN ANGGA SAPUTRA
 * **Jabatan:** VOLUNTEER
 * **TTL:** PONOROGO, 12 SEPTEMBER 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - INDAH AYU ASTUTI
-* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** INDAH AYU ASTUTI
 * **Jabatan:** VOLUNTEER
 * **TTL:** PONOROGO, 27 DESEMBER 2006
