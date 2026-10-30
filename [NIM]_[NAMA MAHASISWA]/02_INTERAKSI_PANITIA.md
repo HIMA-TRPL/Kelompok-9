@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - FATHUR ROSHIN HADDINANTA
-* <img src="assets/PANITIA/BPH/BPH - Fathur Roshin Haddinanta.jpg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH-FATHUR.jpeg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** FATHUR ROSHIN HADDINANTA
 * **Jabatan:** SEKRETARIS 1
 * **TTL:** TULUNGAGUNG, 21 SEPTEMBER 2005
