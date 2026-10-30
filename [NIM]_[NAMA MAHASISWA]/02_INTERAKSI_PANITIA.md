@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - DZAKWAN DARIS FAKHRUDDIN
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.jpeg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DZAKWAN DARIS FAKHRUDDIN
 * **Jabatan:** ANGGOTA DAGRI
 * **TTL:** MADIUN, 13 APRIL 2006
@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - FIRDAUS ILHAM F.
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..jpeg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** FIRDAUS ILHAM F.
 * **Jabatan:** ANGGOTA
 * **TTL:** MADIUN, 01 JANUARI 2007
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - BANGKIT CAHYA LINUWIH
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpeg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** BANGKIT CAHYA LINUWIH
 * **Jabatan:** STAFF MUDA DAGRI
 * **TTL:** PACITAN, 02 APRIL 2006
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - NADIA TIFARA SIDIQ
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..jpeg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NADIA TIFARA SIDIQ
 * **Jabatan:** SIE ACARA
 * **TTL:** MADIUN, 27 DESEMBER 2005
@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - ADAM NOVERIAN
-* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.jpg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ADAM NOVERIAN
 * **Jabatan:** KETUA HUMAS
 * **TTL:** SURABAYA, 08 NOVEMBER 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - MUHAMMAD RAUFA HAFID WIDODO
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..jpg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
 * **Jabatan:** ANGGOTA HUMAS
 * **TTL:** MADIUN, 26 SEPTEMBER 2005
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - ALVINA NUR LAILA ANGGRAINI
-* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.jpg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ALVINA NUR LAILA ANGGRAINI
 * **Jabatan:** ANGGOTA HUMAS
 * **TTL:** SURABAYA, 31 MARET 2005
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - CRISTIAN REYNALDI
-* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.jpg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** CRISTIAN REYNALDI
 * **Jabatan:** PERKAP
 * **TTL:** JAKARTA, 18 JANUARI 2007
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - ATHA ARYASATYA
-* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.jpg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ATHA ARYASATYA
 * **Jabatan:** STAFF HUMAS
 * **TTL:** MADIUN, 22 FEBRUARI 2005
@@ -177,7 +177,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - RIYAN ZAKARIA ZULKARNAIN
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.jpg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.jpeg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RIYAN ZAKARIA ZULKARNAIN
 * **Jabatan:** KOORDINATOR PSDM
 * **TTL:** PONOROGO, 07 SEPTEMBER 2005
@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - MOHAMMAD DANI TAUFIQURROHMAN
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..jpg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MOHAMMAD DANI TAUFIQURROHMAN
 * **Jabatan:** ANGGOTA PSDM
 * **TTL:** DENPASAR, 21 MARET 2006
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - RINDY CANTIKA AGUSTINA P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Denpasar, 21 Maret 2006
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - ABDUL AZIZ MUSHTHOFA
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.jpg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.jpeg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ABDUL AZIZ MUSHTHOFA
 * **Jabatan:** STAFF MUDA PSDM / KETUPEL
 * **TTL:** TULUNGAGUNG, 13 APRIL 2006
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - TIARA MAYA LESTARI
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.jpg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.jpeg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** TIARA MAYA LESTARI
 * **Jabatan:** ANGGOTA PSDM
 * **TTL:** NGANJUK, 11 MARET 2006
@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - AZZA AULIYAUL F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AZZA AULIYAUL F.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Madiun, 19 November 2005
@@ -241,7 +241,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - ANGGI WAHYU SAPUTRA
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpeg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ANGGI WAHYU SAPUTRA
 * **Jabatan:** KOORDINATOR SOSMA
 * **TTL:** TULUNGAGUNG, 14 JUNI 2005
@@ -251,7 +251,7 @@
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ### [24] Sosma - MUHAMMAD ROFIQUL ANAM
-* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.jpg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.jpeg" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD ROFIQUL ANAM
 * **Jabatan:**  Anggota Sosma
 * **TTL:**  Magetan, 05 Maret 2006
@@ -261,7 +261,7 @@
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - EDWIN NUR CAHYO
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.jpg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.jpeg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** EDWIN NUR CAHYO
 * **Jabatan:** ANGGOTA SOSMA
 * **TTL:** DAGANGAN, MADIUN, 01 NOVEMBER 2006
@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - MUHSYAM FAHRIEL S.
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S.jpeg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHSYAM FAHRIEL S.
 * **Jabatan:** ANGGOTA SOSMA
 * **TTL:** NGAWI, 25 SEPTEMBER 2005
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] Sosma - LUTFILAH AHMAD
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.jpeg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** LUTFILAH AHMAD
 * **Jabatan:** STAFF MUDA
 * **TTL:** MAGETAN, 30 JANUARI 2007
@@ -295,7 +295,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [28] PDD - ARDHANA SYAH HIDAYAT
-* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.jpg" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.jpeg" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ARDHANA SYAH HIDAYAT
 * **Jabatan:** KOORDINATOR PDD
 * **TTL:** PONOROGO, 04 JULI 2005
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - RADITYA ALFAREZA PURNAMA PUTRA
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.jpg" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.jpeg" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RADITYA ALFAREZA PURNAMA PUTRA
 * **Jabatan:** ANGGOTA PDD
 * **TTL:** MADIUN, 04 MARET 2006
@@ -315,7 +315,7 @@
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - RAIHAN FIRDAUS ALFARITSI
-* <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpg" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpeg" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RAIHAN FIRDAUS ALFARITSI
 * **Jabatan:** -
 * **TTL:** -
