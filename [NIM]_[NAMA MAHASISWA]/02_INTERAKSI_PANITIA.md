@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] HUMAS - ADAM NOVERIAN
-* <img src="assets/PANITIA/Humas/HUMAS - Adam Noverian.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ADAM NOVERIAN
 * **Jabatan:** KETUA HUMAS
 * **TTL:** SURABAYA, 08 NOVEMBER 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] HUMAS - MUHAMMAD RAUFA HAFID WIDODO
-* <img src="assets/PANITIA/Humas/HUMAS - Muhammad Raufa Hafid W.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
 * **Jabatan:** ANGGOTA HUMAS
 * **TTL:** MADIUN, 26 SEPTEMBER 2005
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] HUMAS - ALVINA NUR LAILA ANGGRAINI
-* <img src="assets/PANITIA/Humas/HUMAS - Alvina Nur Laila Anggraini.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ALVINA NUR LAILA ANGGRAINI
 * **Jabatan:** ANGGOTA HUMAS
 * **TTL:** SURABAYA, 31 MARET 2005
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] HUMAS - CRISTIAN REYNALDI
-* <img src="assets/PANITIA/Humas/HUMAS - Cristian Reynaldi.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** CRISTIAN REYNALDI
 * **Jabatan:** PERKAP
 * **TTL:** JAKARTA, 18 JANUARI 2007
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] HUMAS - ATHA ARYASATYA
-* <img src="assets/PANITIA/Humas/HUMAS - Atha Aryasatya.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ATHA ARYASATYA
 * **Jabatan:** STAFF HUMAS
 * **TTL:** MADIUN, 22 FEBRUARI 2005
