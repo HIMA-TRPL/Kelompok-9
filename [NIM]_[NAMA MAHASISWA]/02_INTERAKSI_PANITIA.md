@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - Muhammad Akbar Fadilah
-* <img src="assets/PANITIA/BPH/BPH - Muhammad Akbar Fadilah.png" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/akbar.jpeg" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Akbar Fadilah
 * **Jabatan:** Ketua Umum
 * **TTL:** Banjarmasin, 17 Juli 2006
