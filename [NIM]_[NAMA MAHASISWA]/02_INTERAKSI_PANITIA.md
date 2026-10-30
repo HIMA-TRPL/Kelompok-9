@@ -475,7 +475,7 @@
 ---
 
 ### [45] Volunteer - Galang Surya Prasetya
-* <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetya.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Galang Surya Prasetya.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetya
 * **Jabatan:** Volunteer (....)
 * **TTL:** Tenggarong, 19 February 2007
