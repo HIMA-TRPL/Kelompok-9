@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - ALVIAN DWIKY PUTRA SANTOSO
-* <img src="assets/PANITIA/Dagri/DAGRI - Alvian Dwiky Putra S.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - Alvian Dwiky Putra S.jpeg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ALVIAN DWIKY PUTRA SANTOSO
 * **Jabatan:** KOORDINATOR DAGRI
 * **TTL:** PONOROGO, 02 DESEMBER 2005
@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - DZAKWAN DARIS FAKHRUDDIN
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.jpeg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DZAKWAN DARIS FAKHRUDDIN
 * **Jabatan:** ANGGOTA DAGRI
 * **TTL:** MADIUN, 13 APRIL 2006
