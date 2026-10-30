@@ -218,6 +218,17 @@
 * **Username GitHub:** @lutfillahh
 * **Asal Daerah:** SUKOHARJO
 
+
+### [-] Sosma - Muhammad Rofiqul Anam (DIHAPUS)
+* <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Muhammad Rofiqul Anam
+* **Jabatan:** -
+* **TTL:** -
+* **Nomer Handphone:** -
+* **Username GitHub:** -
+* **Asal Daerah:** -
+<!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
+
 ---
 
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
