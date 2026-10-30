@@ -119,7 +119,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - RIYAN ZAKARIA ZULKARNAIN
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.jpg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/RIYAN ZAKARIA ZULKARNAIN.jpeg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RIYAN ZAKARIA ZULKARNAIN
 * **Jabatan:** KOORDINATOR PSDM
 * **TTL:** PONOROGO, 07 SEPTEMBER 2005
@@ -129,7 +129,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - MOHAMMAD DANI TAUFIQURROHMAN
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..jpg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/MOHAMMAD DANI TAUFIQURROHMAN.jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MOHAMMAD DANI TAUFIQURROHMAN
 * **Jabatan:** ANGGOTA PSDM
 * **TTL:** DENPASAR, 21 MARET 2006
@@ -159,7 +159,7 @@
 
 
 ### [21] PSDM - TIARA MAYA LESTARI
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.jpg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/TIARA MAYA LESTARI.jpeg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** TIARA MAYA LESTARI
 * **Jabatan:** ANGGOTA PSDM
 * **TTL:** NGANJUK, 11 MARET 2006
