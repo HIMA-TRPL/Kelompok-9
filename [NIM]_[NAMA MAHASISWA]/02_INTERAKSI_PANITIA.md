@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - ADAM NOVERIAN
-* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.jpg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS_ADAM NOVERIAN.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ADAM NOVERIAN
 * **Jabatan:** KETUA HUMAS
 * **TTL:** SURABAYA, 08 NOVEMBER 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - MUHAMMAD RAUFA HAFID WIDODO
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..jpg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS_MUHAMMAD RAUFA HAFID.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
 * **Jabatan:** ANGGOTA HUMAS
 * **TTL:** MADIUN, 26 SEPTEMBER 2005
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - ALVINA NUR LAILA ANGGRAINI
-* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.jpg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HumasHUMAAS_ALVINA NUR LAILA.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ALVINA NUR LAILA ANGGRAINI
 * **Jabatan:** ANGGOTA HUMAS
 * **TTL:** SURABAYA, 31 MARET 2005
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - CRISTIAN REYNALDI
-* <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.jpg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS_CRISTIAN REYNALDI.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** CRISTIAN REYNALDI
 * **Jabatan:** PERKAP
 * **TTL:** JAKARTA, 18 JANUARI 2007
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - ATHA ARYASATYA
-* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.jpg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS_ATHA ARYASATYA.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ATHA ARYASATYA
 * **Jabatan:** STAFF HUMAS
 * **TTL:** MADIUN, 22 FEBRUARI 2005
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - NABIL SUNU WIDYA DHANA
-* <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widya Dhana.jpg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER_NABIL SUNU WIDYADHANA.jpeg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NABIL SUNU WIDYA DHANA
 * **Jabatan:** VOLUNTEER
 * **TTL:** BEKASI, 15 MARET 2006
@@ -463,7 +463,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - ERVINDY ANJUNI NURMASARI
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.jpg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER_ERVINDY ANJUNI.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ERVINDY ANJUNI NURMASARI
 * **Jabatan:** VOLUNTEER (KONSUMSI)
 * **TTL:** MADIUN, 21 JUNI 2006
