@@ -118,7 +118,7 @@
 
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
-### [17] PSDM - RIYAN ZAKARIA ZULKARNAIN
+### [12] PSDM - RIYAN ZAKARIA ZULKARNAIN
 * <img src="assets/PANITIA/PSDM/RIYAN ZAKARIA ZULKARNAIN.jpeg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RIYAN ZAKARIA ZULKARNAIN
 * **Jabatan:** KOORDINATOR PSDM
@@ -128,7 +128,7 @@
 * **Asal Daerah:** PONOROGO
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
-### [18] PSDM - MOHAMMAD DANI TAUFIQURROHMAN
+### [13] PSDM - MOHAMMAD DANI TAUFIQURROHMAN
 * <img src="assets/PANITIA/PSDM/MOHAMMAD DANI TAUFIQURROHMAN.jpeg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MOHAMMAD DANI TAUFIQURROHMAN
 * **Jabatan:** ANGGOTA PSDM
@@ -138,7 +138,7 @@
 * **Asal Daerah:** MADIUN
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
-### [19] PSDM - RINDY CANTIKA AGUSTINA P.
+### [14] PSDM - RINDY CANTIKA AGUSTINA P.
 * <img src="assets/PANITIA/PSDM/RINDY%20CANTIKA%20AGUSTINA%20PUTRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
 * **Jabatan:**  Anggota PSDM
@@ -148,7 +148,7 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
-### [20] PSDM - ABDUL AZIZ MUSHTHOFA
+### [15] PSDM - ABDUL AZIZ MUSHTHOFA
 * <img src="assets/PANITIA/PSDM/ABDUL AZIZ MUSHTHOFA.jpeg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ABDUL AZIZ MUSHTHOFA
 * **Jabatan:** STAFF MUDA PSDM / KETUPEL
@@ -158,7 +158,7 @@
 * **Asal Daerah:** TULUNGAGUNG
 
 
-### [21] PSDM - TIARA MAYA LESTARI
+### [16] PSDM - TIARA MAYA LESTARI
 * <img src="assets/PANITIA/PSDM/TIARA MAYA LESTARI.jpeg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** TIARA MAYA LESTARI
 * **Jabatan:** ANGGOTA PSDM
@@ -168,7 +168,7 @@
 * **Asal Daerah:** NGANJUK
 
 
-### [22] PSDM - AZZA AULIYAUL F.
+### [17] PSDM - AZZA AULIYAUL F.
 * <img src="assets/PANITIA/PSDM/AZZA%20AULIYAUL%20F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AZZA AULIYAUL F.
 * **Jabatan:**  Anggota PSDM
@@ -179,7 +179,7 @@
 
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
-### [23] Sosma - ANGGI WAHYU SAPUTRA
+### [18] Sosma - ANGGI WAHYU SAPUTRA
 * <img src="assets/PANITIA/Sosma/ANGGI WAHYU SAPUTRA.jpeg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ANGGI WAHYU SAPUTRA
 * **Jabatan:** KOORDINATOR SOSMA
@@ -189,7 +189,7 @@
 * **Asal Daerah:** TULUNGAGUNG
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
-### [25] Sosma - EDWIN NUR CAHYO
+### [19] Sosma - EDWIN NUR CAHYO
 * <img src="assets/PANITIA/Sosma/EDWIN NURCAHYO.jpeg" alt="Edwin Nurcahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** EDWIN NUR CAHYO
 * **Jabatan:** ANGGOTA SOSMA
@@ -199,7 +199,7 @@
 * **Asal Daerah:** DAGANGAN, MADIUN
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
-### [26] Sosma - MUHSYAM FAHRIEL S.
+### [20] Sosma - MUHSYAM FAHRIEL S.
 * <img src="assets/PANITIA/Sosma/MUHSYAM FAHRIEL SEPTIANSYAH.jpeg" alt="Muhsyam Fahriel Septiansyah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHSYAM FAHRIEL S.
 * **Jabatan:** ANGGOTA SOSMA
@@ -209,7 +209,7 @@
 * **Asal Daerah:** NGAWI
 
 
-### [27] Sosma - LUTFILAH AHMAD
+### [21] Sosma - LUTFILAH AHMAD
 * <img src="assets/PANITIA/Sosma/LUTFILAH AHMAD.jpeg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** LUTFILAH AHMAD
 * **Jabatan:** STAFF MUDA
@@ -222,7 +222,7 @@
 
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
-### [28] PDD - ARDHANA SYAH HIDAYAT
+### [22] PDD - ARDHANA SYAH HIDAYAT
 * <img src="assets/PANITIA/PDD/ARDHANA SYAH HIDAYAT.jpeg" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ARDHANA SYAH HIDAYAT
 * **Jabatan:** KOORDINATOR PDD
@@ -232,7 +232,7 @@
 * **Asal Daerah:** PONOROGO
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
-### [29] PDD - RADITYA ALFAREZA PURNAMA PUTRA
+### [23] PDD - RADITYA ALFAREZA PURNAMA PUTRA
 * <img src="assets/PANITIA/PDD/RADITYA ALFAREZA PURNAMA PUTRA.jpeg" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RADITYA ALFAREZA PURNAMA PUTRA
 * **Jabatan:** ANGGOTA PDD
@@ -242,7 +242,7 @@
 * **Asal Daerah:** MADIUN
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
-### [30] PDD - RAIHAN FIRDAUS ALFARITSI
+### [24] PDD - RAIHAN FIRDAUS ALFARITSI
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpg" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RAIHAN FIRDAUS ALFARITSI
 * **Jabatan:** -
@@ -252,7 +252,7 @@
 * **Asal Daerah:** -
 
 
-### [31] PDD - ACHMAD ALVIN AL FALAH
+### [25] PDD - ACHMAD ALVIN AL FALAH
 * <img src="assets/PANITIA/PDD/ACHMAD ALVIN AL FALAH.jpeg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ACHMAD ALVIN AL FALAH
 * **Jabatan:** PJ
@@ -262,7 +262,7 @@
 * **Asal Daerah:** PONOROGO
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
-### [32] PDD - DAFFA HAFIST ATHA KUNCORO
+### [26] PDD - DAFFA HAFIST ATHA KUNCORO
 * <img src="assets/PANITIA/PDD/DAFFA HAFIST ATHA KUNCORO.jpeg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DAFFA HAFIST ATHA KUNCORO
 * **Jabatan:** STAFF MUDA
@@ -272,7 +272,7 @@
 * **Asal Daerah:** SIDOARJO
 
 
-### [33] PDD - DINDA RAHMAWATI
+### [27] PDD - DINDA RAHMAWATI
 * <img src="assets/PANITIA/PDD/DINDA RAHMAWATI.jpeg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DINDA RAHMAWATI
 * **Jabatan:** STAFF MUDA
@@ -285,7 +285,7 @@
 
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
-### [34] DKM - ANDRIAN MAULANA
+### [28] DKM - ANDRIAN MAULANA
 * <img src="assets/PANITIA/DKM/ANDRIAN MAULANA.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ANDRIAN MAULANA
 * **Jabatan:** Koordinator DKM
@@ -295,7 +295,7 @@
 * **Asal Daerah:**   Ponorogo
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
-### [35] DKM - JIMLI DWI ASSIDDIQI
+### [29] DKM - JIMLI DWI ASSIDDIQI
 * <img src="assets/PANITIA/DKM/JIMLI DWI ASSIDDIQI.jpeg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** JIMLI DWI ASSIDDIQI
 * **Jabatan:** PERKAP
@@ -305,7 +305,7 @@
 * **Asal Daerah:** MOJOKERTO
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
-### [36] DKM - DHEANDRA KHAIRUNNISA P.
+### [30] DKM - DHEANDRA KHAIRUNNISA P.
 * <img src="assets/PANITIA/DKM/DHEANDRA KHAIRUNNISA.jpeg" alt="Dheandra Khairunnisa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DHEANDRA KHAIRUNNISA P.
 * **Jabatan:** SIE KESEHATAN
@@ -315,7 +315,7 @@
 * **Asal Daerah:** KOTA MADIUN
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
-### [37] DKM - SEKAR PURWITA ASRI
+### [31] DKM - SEKAR PURWITA ASRI
 * <img src="assets/PANITIA/DKM/SEKAR PURWITA ASRI.jpeg" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SEKAR PURWITA ASRI
 * **Jabatan:** ANGGOTA DKM
@@ -325,7 +325,7 @@
 * **Asal Daerah:** MAGETAN
 
 
-### [38] DKM - SILFINA NUR FADILAH
+### [32] DKM - SILFINA NUR FADILAH
 * <img src="assets/PANITIA/DKM/SILFINA NUR FADILAH.jpeg" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SILFINA NUR FADILAH
 * **Jabatan:** ANGGOTA DKM
@@ -338,7 +338,7 @@
 
 ## 🏛️ Divisi HUMAS ( Hubungan Masyarakat )
 
-### [12] Humas - ADAM NOVERIAN
+### [33] Humas - ADAM NOVERIAN
 * <img src="assets/PANITIA/HUMAS/ADAM NOVERIAN.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ADAM NOVERIAN
 * **Jabatan:** KETUA HUMAS
@@ -348,7 +348,7 @@
 * **Asal Daerah:** SURABAYA
 
 
-### [13] Humas - MUHAMMAD RAUFA HAFID WIDODO
+### [34] Humas - MUHAMMAD RAUFA HAFID WIDODO
 * <img src="assets/PANITIA/HUMAS/MUHAMMAD RAUFA HAFID WIDODO.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
 * **Jabatan:** ANGGOTA HUMAS
@@ -358,7 +358,7 @@
 * **Asal Daerah:** KAB. MADIUN
 
 
-### [15] Humas - CRISTIAN REYNALDI
+### [35] Humas - CRISTIAN REYNALDI
 * <img src="assets/PANITIA/HUMAS/CRISTIAN REYNALDI.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** CRISTIAN REYNALDI
 * **Jabatan:** PERKAP
@@ -368,7 +368,7 @@
 * **Asal Daerah:** JAKARTA
 
 
-### [16] Humas - ATHA ARYASATYA
+### [36] Humas - ATHA ARYASATYA
 * <img src="assets/PANITIA/HUMAS/ATHA ARYASATYA.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ATHA ARYASATYA
 * **Jabatan:** STAFF HUMAS
@@ -381,7 +381,7 @@
 
 ## 🏛️ Volunteer
 
-### [39] Volunteer - SEPTIAN ANGGA SAPUTRA
+### [37] Volunteer - SEPTIAN ANGGA SAPUTRA
 * <img src="assets/PANITIA/VOLUNTEER/SEPTIAN ANGGA SAPUTRA.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SEPTIAN ANGGA SAPUTRA
 * **Jabatan:** VOLUNTEER
@@ -391,7 +391,7 @@
 * **Asal Daerah:** PONOROGO
 
 
-### [40] Volunteer - INDAH AYU ASTUTI
+### [38] Volunteer - INDAH AYU ASTUTI
 * <img src="assets/PANITIA/VOLUNTEER/INDAH AYU ASTUTI.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** INDAH AYU ASTUTI
 * **Jabatan:** VOLUNTEER
@@ -401,7 +401,7 @@
 * **Asal Daerah:** PONOROGO
 
 
-### [41] Volunteer - KUNNI SOFA RAHMAYANI
+### [39] Volunteer - KUNNI SOFA RAHMAYANI
 * <img src="assets/PANITIA/VOLUNTEER/KUNNI SOFA RAHMAYANI.jpeg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** KUNNI SOFA RAHMAYANI
 * **Jabatan:** VOLUNTEER
@@ -411,7 +411,7 @@
 * **Asal Daerah:** MADIUN
 
 
-### [42] Volunteer - AISYAH NUR FADILLAH
+### [40] Volunteer - AISYAH NUR FADILLAH
 * <img src="assets/PANITIA/VOLUNTEER/AISYAH NUR FADILLAH.jpeg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AISYAH NUR FADILLAH
 * **Jabatan:** VOLUNTEER (KOMDIS)
@@ -421,7 +421,7 @@
 * **Asal Daerah:** MAGETAN
 
 
-### [43] Volunteer - NABIL SUNU WIDYA DHANA
+### [41] Volunteer - NABIL SUNU WIDYA DHANA
 * <img src="assets/PANITIA/VOLUNTEER/NABIL SUNU WIDYADHANA.jpeg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NABIL SUNU WIDYA DHANA
 * **Jabatan:** VOLUNTEER
@@ -431,7 +431,7 @@
 * **Asal Daerah:** PONOROGO
 
 
-### [44] Volunteer - ERVINDY ANJUNI NURMASARI
+### [42] Volunteer - ERVINDY ANJUNI NURMASARI
 * <img src="assets/PANITIA/VOLUNTEER/ERVINDY ANJUNI NURMASARI.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ERVINDY ANJUNI NURMASARI
 * **Jabatan:** VOLUNTEER (KONSUMSI)
@@ -441,7 +441,7 @@
 * **Asal Daerah:** MADIUN
 
 
-### [45] Volunteer - NADYA NUR KAMILA
+### [43] Volunteer - NADYA NUR KAMILA
 * <img src="assets/PANITIA/VOLUNTEER/NADYA NUR KAMILA.jpeg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NADYA NUR KAMILA
 * **Jabatan:** VOLUNTEER 
@@ -451,7 +451,7 @@
 * **Asal Daerah:** MADIUN
 
 
-### [46] Volunteer - GALANG SURYA PRASETYO
+### [44] Volunteer - GALANG SURYA PRASETYO
 * <img src="assets/PANITIA/VOLUNTEER/GALANG SURYA PRASETYO.jpeg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** GALANG SURYA PRASETYO
 * **Jabatan:** VOLUNTEER 
