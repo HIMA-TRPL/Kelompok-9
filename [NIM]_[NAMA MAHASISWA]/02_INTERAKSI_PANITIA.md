@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - Adam Noverian
-* <img src="assets/PANITIA/Humas/adam.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/adam.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Adam Noverian
 * **Jabatan:** Ketua Humas
 * **TTL:** Surabaya, 08 November 2005
@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/Humas/muhammad raufa.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/muhammad raufa.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Raufa Hafid Widodo
 * **Jabatan:** Anggota Humas
 * **TTL:** Madiun, 26 September 2005
@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - Alvina Nur Laila Anggraini
-* <img src="assets/PANITIA/Humas/alivia nur.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/alivia nur.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvina Nur Laila Anggraini
 * **Jabatan:** Anggota Humas
 * **TTL:** Surabaya, 31 Maret 2005
@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/Humas/cristian reynaldi.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/cristian reynaldi.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Cristian Reynaldi
 * **Jabatan:** Perkap
 * **TTL:** Jakarta, 18 Januari 2007
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Humas/atha arya.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/atha arya.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
 * **Jabatan:** Staff Humas
 * **TTL:** Madiun, 22 Februari 2005
@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/septian.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/septian.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/indah ayu astuti.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/indah ayu astuti.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/kunni.jpeg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/kunni.jpeg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - Aisyah Nur Fadillah
-* <img src="assets/PANITIA/Volunteer/alvina nur" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/alvina nur" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer (Komdis)
 * **TTL:** Magetan, 21 September 2006
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/nabil sunu.jpeg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/nabil sunu.jpeg" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nabil Sunu Widya Dhana
 * **Jabatan:** Volunteer
 * **TTL:** Bekasi, 15 Maret 2006
