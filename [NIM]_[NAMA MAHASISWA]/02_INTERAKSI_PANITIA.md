@@ -233,7 +233,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [28] PDD - ARDHANA SYAH HIDAYAT
-* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.jpg" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/ARDHANA SYAH HIDAYAT.jpeg" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ARDHANA SYAH HIDAYAT
 * **Jabatan:** KOORDINATOR PDD
 * **TTL:** PONOROGO, 04 JULI 2005
@@ -243,7 +243,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - RADITYA ALFAREZA PURNAMA PUTRA
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.jpg" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/RADITYA ALFAREZA PURNAMA PUTRA.jpeg" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RADITYA ALFAREZA PURNAMA PUTRA
 * **Jabatan:** ANGGOTA PDD
 * **TTL:** MADIUN, 04 MARET 2006
@@ -263,7 +263,7 @@
 
 
 ### [31] PDD - ACHMAD ALVIN AL FALAH
-* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/ACHMAD ALVIN AL FALAH.jpeg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ACHMAD ALVIN AL FALAH
 * **Jabatan:** PJ
 * **TTL:** PONOROGO, 18 JANUARI 2006
@@ -273,7 +273,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - DAFFA HAFIST ATHA KUNCORO
-* <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/DAFFA HAFIST ATHA KUNCORO.jpeg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DAFFA HAFIST ATHA KUNCORO
 * **Jabatan:** STAFF MUDA
 * **TTL:** SURABAYA, 16 JANUARI 2007
@@ -283,7 +283,7 @@
 
 
 ### [33] PDD - DINDA RAHMAWATI
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.jpg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/DINDA RAHMAWATI.jpeg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DINDA RAHMAWATI
 * **Jabatan:** STAFF MUDA
 * **TTL:** MADIUN, 09 SEPTEMBER 2006
