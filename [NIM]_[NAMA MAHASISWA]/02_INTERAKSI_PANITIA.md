@@ -200,11 +200,11 @@
 ### [19] PSDM - Rindy Cantika Agustina P.
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota Devisi PSDM
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** 111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
@@ -230,11 +230,11 @@
 ### [22] PSDM - Azza Auliyaul F.
 * <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota PSDM 
+* **TTL:** Madiun, 19 November 2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzaauliyaul
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -362,11 +362,11 @@
 ### [34] DKM - Andrian Maulana
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Koordinasi Devisi DKM
+* **TTL:** 19 September 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** @driannminaa
+* **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
@@ -473,6 +473,15 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
+### [45] Volunteer - Ervindy Anjuni Nurmasari
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/VOLUNTEER/VOLUNTEER_ERVINDY%20ANJUNI.jpeg" alt="VOLUNTEER ERVINDY ANJUNI" style="object-fit:cover;" width="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer
+* **TTL:** Madiun, 19 Februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** kalimantan timur
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 ---
 
 
