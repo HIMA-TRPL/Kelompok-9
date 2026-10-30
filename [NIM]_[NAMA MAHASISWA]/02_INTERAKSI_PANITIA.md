@@ -256,11 +256,11 @@
 ### [24] PDD - RAIHAN FIRDAUS ALFARITSI
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpg" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** RAIHAN FIRDAUS ALFARITSI
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** ANGGOTA
+* **TTL:** 24 SEPTEMBER 2005
+* **Nomer Handphone:** 0895405971849
+* **Username GitHub:** hannnzu
+* **Asal Daerah:** NGAWI
 
 
 ### [25] PDD - ACHMAD ALVIN AL FALAH
