@@ -149,7 +149,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - ABDUL AZIZ MUSHTHOFA
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.jpg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/ABDUL AZIZ MUSHTHOFA.jpeg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ABDUL AZIZ MUSHTHOFA
 * **Jabatan:** STAFF MUDA PSDM / KETUPEL
 * **TTL:** TULUNGAGUNG, 13 APRIL 2006
