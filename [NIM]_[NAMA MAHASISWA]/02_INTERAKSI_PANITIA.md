@@ -67,7 +67,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - ALVIAN DWIKY PUTRA SANTOSO
-* <img src="assets/PANITIA/Dagri/DAGRI - Alvian Dwiky Putra S.jpg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/ALVIAN DWIKY PUTRA SANTOSO.jpeg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ALVIAN DWIKY PUTRA SANTOSO
 * **Jabatan:** KOORDINATOR DAGRI
 * **TTL:** PONOROGO, 02 DESEMBER 2005
@@ -77,7 +77,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - DZAKWAN DARIS FAKHRUDDIN
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DZAKWAN DARIS FAKHRUDDIN.jpeg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DZAKWAN DARIS FAKHRUDDIN
 * **Jabatan:** ANGGOTA DAGRI
 * **TTL:** MADIUN, 13 APRIL 2006
@@ -87,7 +87,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - FIRDAUS ILHAM F.
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/FIRDAUS ILHAM.jpeg" alt="Firdaus Ilham" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** FIRDAUS ILHAM F.
 * **Jabatan:** ANGGOTA
 * **TTL:** MADIUN, 01 JANUARI 2007
@@ -97,7 +97,7 @@
 <!-- Line Comment TTD Panitia 06 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - BANGKIT CAHYA LINUWIH
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/BANGKIT CAHYA LINUWIH.jpeg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** BANGKIT CAHYA LINUWIH
 * **Jabatan:** STAFF MUDA DAGRI
 * **TTL:** PACITAN, 02 APRIL 2006
@@ -107,7 +107,7 @@
 
 
 ### [11] Dagri - NADIA TIFARA SIDIQ
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/NADIA TIFARA SIDIQ.jpeg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NADIA TIFARA SIDIQ
 * **Jabatan:** SIE ACARA
 * **TTL:** MADIUN, 27 DESEMBER 2005
