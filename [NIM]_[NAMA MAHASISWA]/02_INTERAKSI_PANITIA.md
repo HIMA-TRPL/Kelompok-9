@@ -122,7 +122,7 @@
 
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
-### [12] Humas - ADAM NOVERIAN
+### [12] HUMAS - ADAM NOVERIAN
 * <img src="assets/PANITIA/Humas/HUMAS - Adam Noverian.jpeg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ADAM NOVERIAN
 * **Jabatan:** KETUA HUMAS
@@ -132,7 +132,7 @@
 * **Asal Daerah:** SURABAYA
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
-### [13] Humas - MUHAMMAD RAUFA HAFID WIDODO
+### [13] HUMAS - MUHAMMAD RAUFA HAFID WIDODO
 * <img src="assets/PANITIA/Humas/HUMAS - Muhammad Raufa Hafid W.jpeg" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** MUHAMMAD RAUFA HAFID WIDODO
 * **Jabatan:** ANGGOTA HUMAS
@@ -142,7 +142,7 @@
 * **Asal Daerah:** KAB. MADIUN
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
-### [14] Humas - ALVINA NUR LAILA ANGGRAINI
+### [14] HUMAS - ALVINA NUR LAILA ANGGRAINI
 * <img src="assets/PANITIA/Humas/HUMAS - Alvina Nur Laila Anggraini.jpeg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ALVINA NUR LAILA ANGGRAINI
 * **Jabatan:** ANGGOTA HUMAS
@@ -152,7 +152,7 @@
 * **Asal Daerah:** SURABAYA
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
-### [15] Humas - CRISTIAN REYNALDI
+### [15] HUMAS - CRISTIAN REYNALDI
 * <img src="assets/PANITIA/Humas/HUMAS - Cristian Reynaldi.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** CRISTIAN REYNALDI
 * **Jabatan:** PERKAP
@@ -162,7 +162,7 @@
 * **Asal Daerah:** JAKARTA
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
-### [16] Humas - ATHA ARYASATYA
+### [16] HUMAS - ATHA ARYASATYA
 * <img src="assets/PANITIA/Humas/HUMAS - Atha Aryasatya.jpeg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** ATHA ARYASATYA
 * **Jabatan:** STAFF HUMAS
