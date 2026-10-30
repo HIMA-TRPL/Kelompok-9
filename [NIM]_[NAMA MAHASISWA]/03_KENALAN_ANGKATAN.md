@@ -404,18 +404,8 @@
 * **Asal Sekolah:** SMKN 3 MADIUN
 * **Fun Fact:** drakor addict
 
-### 37 264311037 - Anatasya Silvia Monica
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/Ana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Anastasya Silvia Monica
-* **NIM:** 264311037
-* **TTL:** Magetan, 5 Juni 2008
-* **Nomer Handphone:** 085129127452
-* **Nama Kelompok:** Rails
-* **Asal Daerah:** Kota Magetan
-* **Asal Sekolah:** SMAN 1 Sukomoro
-* **Fun Fact:** anak spotify
 
-### 38 264311038 - Ardhan Irsyad Maulana
+### 37 264311038 - Ardhan Irsyad Maulana
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/Ardhan_264311038.jpeg" alt="Foto Ardhan" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ardhan Irsyad Maulana
 * **NIM:** 264311038
