@@ -602,18 +602,7 @@
 * **Asal Sekolah:** SMKS AL-BASYARIYAH
 * **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
 
-### 55 264311055 - Raizzan Ulayya Taqqi
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Raizzan Ulayya Taqqi
-* **NIM:** 264311055
-* **TTL:** Ngawi, 01 Oktober 2007
-* **Nomer Handphone:** 087778962411
-* **Nama Kelompok:** Rails
-* **Asal Daerah:** Kota Madiun
-* **Asal Sekolah:** SMAN 5 MADIUN
-* **Fun Fact:** gk suka makan pedes
-
-### 56 264311056 - Restu Prayoga
+### 55 264311056 - Restu Prayoga
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/Restu.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Restu Prayoga
 * **NIM:** 264311056
@@ -624,7 +613,7 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN PONOROGO
 * **Fun Fact:** FANS KING EMYU
 
-### 57 264311057 - Roefando Adji Ramadhan
+### 56 264311057 - Roefando Adji Ramadhan
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/Roefando.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Roefando Adji Ramadhan
 * **NIM:** 264311057
@@ -635,7 +624,7 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** pecandu kopi akut
 
-### 58 264311058 - Sakhiya Azam Khoirunni'am
+### 57 264311058 - Sakhiya Azam Khoirunni'am
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/Azam.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sakhiya Azam Khoirunni'am
 * **NIM:** 264311058
@@ -646,7 +635,7 @@
 * **Asal Sekolah:** SMKS AL-ISLAM JORESAN
 * **Fun Fact:** fans madrid
 
-### 59 264311059 - Sinara Endrya Alnegar
+### 58 264311059 - Sinara Endrya Alnegar
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/Sinara.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sinara Endrya Alnegar
 * **NIM:** 264311059
@@ -661,7 +650,7 @@
 
 ## 🏫 Kelas 1C
 
-### 60 264311060 - Adam Chesta Aditio
+### 59 264311060 - Adam Chesta Aditio
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/adam.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adam Chesta Aditio
 * **NIM:** 264311060
@@ -672,7 +661,7 @@
 * **Asal Sekolah:** SMKN 1 BLITAR
 * **Fun Fact:** Human Male
 
-### 61 264311061 - Aulia Kurniawati
+### 60 264311061 - Aulia Kurniawati
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/aulia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aulia Kurniawati
 * **NIM:** 264311061
@@ -683,7 +672,7 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** Suka hal hal simpel
 
-### 62 264311062 - Azzam Fauzy
+### 61 264311062 - Azzam Fauzy
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/azam.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Azzam Fauzy
 * **NIM:** 264311062
@@ -694,7 +683,7 @@
 * **Asal Sekolah:** MAN 2 KOTA MADIUN
 * **Fun Fact:** baik hati
 
-### 63 264311063 - Bilqis Audynova Prasanty
+### 62 264311063 - Bilqis Audynova Prasanty
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/bilqis.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bilqis Audynova Prasanty
 * **NIM:** 264311063
@@ -705,7 +694,7 @@
 * **Asal Sekolah:** SMAN 1 MADIUN
 * **Fun Fact:** JAGO NULIS TANGAN KIRI
 
-### 64 264311064 - Cindika Zahira Thitania Putri
+### 63 264311064 - Cindika Zahira Thitania Putri
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/sindika.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Cindika Zahira Thitania Putri
 * **NIM:** 264311064
@@ -716,7 +705,7 @@
 * **Asal Sekolah:** SMAN 1 MADIUN
 * **Fun Fact:** Suka wanginya stela jeruk
 
-### 65 264311065 - Cornelia Nasywa Puji Agustin
+### 64 264311065 - Cornelia Nasywa Puji Agustin
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/cornelia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Cornelia Nasywa Puji Agustin
 * **NIM:** 264311065
@@ -727,7 +716,7 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** CINTA MATI UB
 
-### 66 264311066 - Dwi Riski Nugroho
+### 65 264311066 - Dwi Riski Nugroho
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/dwi riski.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dwi Riski Nugroho
 * **NIM:** 264311066
@@ -738,7 +727,7 @@
 * **Asal Sekolah:** SMAN PILANGKENCENG
 * **Fun Fact:** GAME & RUNNING
 
-### 67 264311067 - Elan Ghiyath Abhimanyu
+### 66 264311067 - Elan Ghiyath Abhimanyu
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/elan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Elan Ghiyath Abhimanyu
 * **NIM:** 264311067
@@ -749,7 +738,7 @@
 * **Asal Sekolah:** SMKN 2 SURAKARTA
 * **Fun Fact:** I LIEK MUSIC AND FILM
 
-### 68 264311068 - Evan Bhagaskara
+### 67 264311068 - Evan Bhagaskara
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/efan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Evan Bhagaskara
 * **NIM:** 264311068
@@ -760,7 +749,7 @@
 * **Asal Sekolah:** SMAN 1 GONDANG
 * **Fun Fact:** SUKA MIE AYAM
 
-### 69 264311069 - Ghaza Zaidan Al-ghifari
+### 68 264311069 - Ghaza Zaidan Al-ghifari
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/ghaza.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ghaza Zaidan Al-ghifari
 * **NIM:** 264311069
@@ -771,7 +760,7 @@
 * **Asal Sekolah:** SMAN 1 NGLAMES
 * **Fun Fact:** SAYA ORANGNYA PENDIAM
 
-### 70 264311070 - Ikhzaniero Ardyana Juniar
+### 69 264311070 - Ikhzaniero Ardyana Juniar
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/nero.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ikhzaniero Ardyana Juniar
 * **NIM:** 264311070
@@ -782,7 +771,7 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI
 * **Fun Fact:** KEBAL AMERICANO 5 SHOOT
 
-### 71 264311071 - Iltizam Ahmad Syahida
+### 70 264311071 - Iltizam Ahmad Syahida
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/izaa.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Iltizam Ahmad Syahida
 * **NIM:** 264311071
@@ -793,7 +782,7 @@
 * **Asal Sekolah:** SMA IIS PSM MAGETAN
 * **Fun Fact:** SUKA MAIN FUTSAL, GAME
 
-### 72 264311072 - Izzata Wihanangku
+### 71 264311072 - Izzata Wihanangku
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/izata.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Izzata Wihanangku
 * **NIM:** 264311072
@@ -804,7 +793,7 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN PONOROGO
 * **Fun Fact:** MALAS NGODING
 
-### 73 264311073 - Jalalluddin Az-Zam Zami Ibnu Suta
+### 72 264311073 - Jalalluddin Az-Zam Zami Ibnu Suta
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/zami.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Jalalluddin Az-Zam Zami Ibnu Suta
 * **NIM:** 264311073
@@ -815,7 +804,7 @@
 * **Asal Sekolah:** SMKN 1 GEGER
 * **Fun Fact:** Game garis keras
 
-### 74 264311074 - Mar'atus Sofiana Azkiya
+### 73 264311074 - Mar'atus Sofiana Azkiya
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/askia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mar'atus Sofiana Azkiya
 * **NIM:** 264311074
@@ -826,7 +815,7 @@
 * **Asal Sekolah:** SMKN 1 BADEGAN
 * **Fun Fact:** Suka motoran sore sore
 
-### 75 264311075 - Muhammad Ahnaf Ghifari
+### 74 264311075 - Muhammad Ahnaf Ghifari
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/ghifari.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Ahnaf Ghifari
 * **NIM:** 264311075
@@ -837,7 +826,7 @@
 * **Asal Sekolah:** SMAN 1 BOJONG GEDE
 * **Fun Fact:** ASLINYA RAMAH
 
-### 76 264311076 - Muhammad Andy Dwi Subandi
+### 75 264311076 - Muhammad Andy Dwi Subandi
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/andy.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Andy Dwi Subandi
 * **NIM:** 264311076
@@ -848,7 +837,7 @@
 * **Asal Sekolah:** SMK PGRI 2 PONOROGO
 * **Fun Fact:** SARAPAN KOPI IRENK
 
-### 77 264311077 - Muhammad Zakiy Fuadiy
+### 76 264311077 - Muhammad Zakiy Fuadiy
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/kiyah.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Zakiy Fuadiy
 * **NIM:** 264311077
@@ -859,7 +848,7 @@
 * **Asal Sekolah:** MA NURUL HADID
 * **Fun Fact:** Tidak Pernah Memiliki Nama Panggilan Yang Sama Di Setiap Jenjang Sekolah
 
-### 78 264311078 - Mutya Yuwan Ramadahni
+### 77 264311078 - Mutya Yuwan Ramadahni
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/mutia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mutya Yuwan Ramadahni
 * **NIM:** 264311078
@@ -870,7 +859,7 @@
 * **Asal Sekolah:** SMKN 1 PONOROGO
 * **Fun Fact:** Suka warna hitam
 
-### 79 264311079 - Neisya Grazia Aulia Firdianty
+### 78 264311079 - Neisya Grazia Aulia Firdianty
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/neisya.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Neisya Grazia Aulia Firdianty
 * **NIM:** 264311079
@@ -881,7 +870,7 @@
 * **Asal Sekolah:** SMA WACHID HASYIM 2
 * **Fun Fact:** SUKA NA JAEMIN + CINTA ITS
 
-### 80 264311080 - Nova
+### 79 264311080 - Nova
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/nova tok.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nova
 * **NIM:** 264311080
@@ -892,7 +881,7 @@
 * **Asal Sekolah:** SMKN MARGOMULYO
 * **Fun Fact:** SUKA NYANYI SAAT MANDI
 
-### 81 264311081 - Putri Nurhaliza
+### 80 264311081 - Putri Nurhaliza
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/putri.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Putri Nurhaliza
 * **NIM:** 264311081
@@ -903,7 +892,7 @@
 * **Asal Sekolah:** SMAN 2 MEJAYAN
 * **Fun Fact:** Pacarku banyakkkkkkk
 
-### 82 264311082 - R. Nabil Wijaya Pratama
+### 81 264311082 - R. Nabil Wijaya Pratama
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/nabil.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** R. Nabil Wijaya Pratama
 * **NIM:** 264311082
@@ -914,7 +903,7 @@
 * **Asal Sekolah:** SMA PRESTASI PRIMA
 * **Fun Fact:** SUKA WHEN YAH
 
-### 83 264311083 - Satria Pandu Admaja
+### 82 264311083 - Satria Pandu Admaja
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/satria.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Satria Pandu Admaja
 * **NIM:** 264311083
@@ -925,7 +914,7 @@
 * **Asal Sekolah:** SMAN 1 BALONG
 * **Fun Fact:** SUKA NGEGAME
 
-### 84 264311085 - Syahga Reyhan Surya Pratama
+### 83 264311085 - Syahga Reyhan Surya Pratama
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/syahga.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Syahga Reyhan Surya Pratama
 * **NIM:** 264311085
@@ -936,7 +925,7 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
-### 85 264311086 - Vicky Aditya Surya Samudra
+### 84 264311086 - Vicky Aditya Surya Samudra
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/gepeng.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Vicky Aditya Surya Samudra
 * **NIM:** 264311086
@@ -947,7 +936,7 @@
 * **Asal Sekolah:** SMAN 4 MADIUN
 * **Fun Fact:** Memelihara Kambing
 
-### 86 264311087 - Yaya Winda Salma
+### 85 264311087 - Yaya Winda Salma
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/yaya.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Yaya Winda Salma
 * **NIM:** 264311087
@@ -958,7 +947,7 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI
 * **Fun Fact:** suka gambar
 
-### 87 264311088 - Zidan Zarakhi Ridwan Habibi
+### 86 264311088 - Zidan Zarakhi Ridwan Habibi
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/zidan.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
 * **NIM:** 264311088
