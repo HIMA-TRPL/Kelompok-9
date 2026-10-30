@@ -315,7 +315,7 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
-### [30] PDD - Raihan Firdaus Alfaritsi
+ [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
 * **Jabatan:** Staff
