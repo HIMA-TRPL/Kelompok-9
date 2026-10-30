@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - FATHUR ROSHIN HADDINANTA
-* <img src="assets/PANITIA/BPH/BPH - Fathur Roshin Haddinanta.jpg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH-FATHUR.jpeg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** FATHUR ROSHIN HADDINANTA
 * **Jabatan:** SEKRETARIS 1
 * **TTL:** TULUNGAGUNG, 21 SEPTEMBER 2005
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - NAILA ZAHRA YASMINE
-* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.jpg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.jpeg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** NAILA ZAHRA YASMINE
 * **Jabatan:** SEKRETARIS 2
 * **TTL:** MADIUN, 09 OKTOBER 2006
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - DHEA NOVIKA
-* <img src="assets/PANITIA/BPH/BPH - Dhea Novika.jpg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH - Dhea Novika.jpeg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DHEA NOVIKA
 * **Jabatan:** BENDAHARA 2
 * **TTL:** MADIUN, 13 NOVEMBER 2006
