@@ -188,7 +188,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - Mohammad Dani Taufiqurrohman
-* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_MOHAMMAD%20DANI.jpeg" alt="PSDM MOHAMMAD DANI" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_%20MOHAMMAD%20DANI.jpeg" alt="PSDM MOHAMMAD DANI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Mohammad Dani Taufiqurrohman
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
@@ -198,7 +198,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_RINDY%20CANTIKA%20PUTRI.jpeg" alt="PSDM RINDY CANTIKA PUTRI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** Anggota Devisi PSDM
 * **TTL:** Madiun, 31 Agustus 2006
@@ -208,7 +208,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
-* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_ABDUL%20AZIZ%20MUSHTHOFA.jpeg" alt="PSDM ABDUL AZIZ MUSHTHOFA" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_%20ABDUL%20AZIZ%20MUSHTHOFA.jpeg" alt="PSDM ABDUL AZIZ MUSHTHOFA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda PSDM / Ketupel
 * **TTL:** Tulungagung, 13 April 2006
@@ -228,7 +228,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - Azza Auliyaul F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_AZZA%20AULIATUL.jpeg" alt="PSDM AZZA AULIATUL" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Anggota PSDM 
 * **TTL:** Madiun, 19 November 2005
@@ -251,7 +251,7 @@
 * **Asal Daerah:** Tulungagung
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
-### [24] Sosma - Muhammad Rofiqul Anam
+### [24] Sosma - Muhammad Rofiqul Anam (DIHAPUS)
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
 * **Jabatan:** -
@@ -318,15 +318,15 @@
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Staff
+* **TTL:** Ngawi, 25 September 2005
+* **Nomer Handphone:** 895405971849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
-* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PDD/PDD_ACHMAD%20ALVIN.jpeg" alt="PDD ACHMAD ALVIN" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PDD/PDD_%20ACHMAD%20ALVIN.jpeg" alt="PDD ACHMAD ALVIN" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
 * **Jabatan:** PJ
 * **TTL:** Ponorogo, 18 Januari 2006
@@ -360,7 +360,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/DKM/DKM_ANDRIAN.jpeg" alt="DKM ANDRIAN" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** Koordinasi Devisi DKM
 * **TTL:** 19 September 2005
@@ -473,8 +473,8 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/VOLUNTEER/VOLUNTEER_ERVINDY%20ANJUNI.jpeg" alt="VOLUNTEER ERVINDY ANJUNI" style="object-fit:cover;" width="300px">
+### [45] Volunteer - Galang Surya Prasetyo
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/VOLUNTEER/VOLUNTEER_GALANG%20SURYA.jpeg" alt="VOLUNTEER GALANG SURYA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 19 Februari 2007
