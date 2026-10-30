@@ -306,7 +306,7 @@
 <!-- Line Comment TTD Panitia 16 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - JIMLI DWI ASSIDDIQI
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.jpg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/JIMLI DWI ASSIDDIQI.jpeg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** JIMLI DWI ASSIDDIQI
 * **Jabatan:** PERKAP
 * **TTL:** MOJOKERTO, 29 JULI 2006
@@ -316,7 +316,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - DHEANDRA KHAIRUNNISA P.
-* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa P..jpg" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DHEANDRA KHAIRUNNISA.jpeg" alt="Dheandra Khairunnisa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** DHEANDRA KHAIRUNNISA P.
 * **Jabatan:** SIE KESEHATAN
 * **TTL:** MADIUN, 27 SEPTEMBER 2005
@@ -326,7 +326,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] DKM - SEKAR PURWITA ASRI
-* <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.jpg" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/SEKAR PURWITA ASRI.jpeg" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SEKAR PURWITA ASRI
 * **Jabatan:** ANGGOTA DKM
 * **TTL:** MAGETAN, 15 JULI 2006
@@ -336,7 +336,7 @@
 
 
 ### [38] DKM - SILFINA NUR FADILAH
-* <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.jpg" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/SILFINA NUR FADILAH.jpeg" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SILFINA NUR FADILAH
 * **Jabatan:** ANGGOTA DKM
 * **TTL:** MAGETAN, 02 OKTOBER 2006
