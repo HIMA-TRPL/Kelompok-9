@@ -391,5 +391,74 @@
 
 ## 🏛️ Volunteer
 
+### [39] Volunteer - SEPTIAN ANGGA SAPUTRA
+* <img src="assets/PANITIA/VOLUNTEER/SEPTIAN ANGGA SAPUTRA.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** SEPTIAN ANGGA SAPUTRA
+* **Jabatan:** VOLUNTEER
+* **TTL:** PONOROGO, 12 SEPTEMBER 2006
+* **Nomer Handphone:** 089615148475
+* **Username GitHub:** @Sptangs
+* **Asal Daerah:** PONOROGO
+
+
+### [40] Volunteer - INDAH AYU ASTUTI
+* <img src="assets/PANITIA/VOLUNTEER/INDAH AYU ASTUTI.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** INDAH AYU ASTUTI
+* **Jabatan:** VOLUNTEER
+* **TTL:** PONOROGO, 27 DESEMBER 2006
+* **Nomer Handphone:** 085708935152
+* **Username GitHub:** @IndahAyu27
+* **Asal Daerah:** PONOROGO
+
+
+### [41] Volunteer - KUNNI SOFA RAHMAYANI
+* <img src="assets/PANITIA/VOLUNTEER/KUNNI SOFA RAHMAYANI.jpeg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** KUNNI SOFA RAHMAYANI
+* **Jabatan:** VOLUNTEER
+* **TTL:** MADIUN, 04 JULI 2006
+* **Nomer Handphone:** 081357895790
+* **Username GitHub:** @rhmaxyn
+* **Asal Daerah:** MADIUN
+
+
+### [42] Volunteer - AISYAH NUR FADILLAH
+* <img src="assets/PANITIA/VOLUNTEER/AISYAH NUR FADILLAH.jpeg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** AISYAH NUR FADILLAH
+* **Jabatan:** VOLUNTEER (KOMDIS)
+* **TTL:** MAGETAN, 21 SEPTEMBER 2006
+* **Nomer Handphone:** 082142461742
+* **Username GitHub:** @aisyahnurfadillah
+* **Asal Daerah:** MAGETAN
+
+
+### [43] Volunteer - NABIL SUNU WIDYA DHANA
+* <img src="assets/PANITIA/VOLUNTEER/NABIL SUNU WIDYADHANA.jpeg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** NABIL SUNU WIDYA DHANA
+* **Jabatan:** VOLUNTEER
+* **TTL:** BEKASI, 15 MARET 2006
+* **Nomer Handphone:** 089503425359
+* **Username GitHub:** @SunuW
+* **Asal Daerah:** PONOROGO
+
+
+### [44] Volunteer - ERVINDY ANJUNI NURMASARI
+* <img src="assets/PANITIA/VOLUNTEER/ERVINDY ANJUNI NURMASARI.jpeg" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** ERVINDY ANJUNI NURMASARI
+* **Jabatan:** VOLUNTEER (KONSUMSI)
+* **TTL:** MADIUN, 21 JUNI 2006
+* **Nomer Handphone:** 085733213487
+* **Username GitHub:** @erov1n
+* **Asal Daerah:** MADIUN
+
+
+### [44] Volunteer - NADYA NUR KAMILA
+* <img src="assets/PANITIA/VOLUNTEER/NADYA NUR KAMILA.jpeg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** NADYA NUR KAMILA
+* **Jabatan:** VOLUNTEER 
+* **TTL:** MADIUN, 1 SEPTEMBER 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
+* **Asal Daerah:** MADIUN
+
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
 > **Catatan Validasi:** Mahasiswa baru dilarang mengubah bagian ini secara manual. TTD Digital dinyatakan SAH jika panitia yang bersangkutan memberikan review pada blok.
