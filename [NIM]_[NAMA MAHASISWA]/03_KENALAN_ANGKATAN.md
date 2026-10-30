@@ -334,7 +334,7 @@
 ## 🏫 Kelas 1B
 
 ### [31] 264311031 – AHMAD MUJADID MUSYAFI’I 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311031_Jadid.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311031_Jadid.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** AHMAD MUJADID MUSYAFI’I 
 * **NIM:** 264311031
 * **TTL:** MAGETAN, 9 DESEMBER 2007
@@ -345,7 +345,7 @@
 * **Fun Fact:** gk kuat makan makanan pedas
 
 ### [32] 264311032 – AHMAD RAISYA AL IQSAN 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311032_Raisya.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311032_Raisya.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** AHMAD RAISYA AL IQSAN 
 * **NIM:** 264311032
 * **TTL:** PONOROGO, 27 NOVEMBER  2007
@@ -367,7 +367,7 @@
 * **Fun Fact:** Gmpang tidur
 
 ### [34] 264311034 – ALEXSANDRIA CAHAYA ADZANI    
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311034_ALEXSANDRIA.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311034_Alexandria.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** ALEXSANDRIA CAHAYA ADZANI
 * **NIM:** 264311034
 * **TTL:** MADIUN, 20 JULI 2007
@@ -378,7 +378,7 @@
 * **Fun Fact:** wi wok de tok
 
 ### [35] 264311035 – ANISA LATIFATUL ROHMA 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311035_Anisa Latif.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311035_Latifatul.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** ANISA LATIFATUL ROHMA
 * **NIM:** 264311035
 * **TTL:** KOTA MADIUN, 20 MARET 2007
@@ -389,7 +389,7 @@
 * **Fun Fact:** bersin” habis ngekek
 
 ### [36] 264311036 – ANNISA NIMASTURNA MEYSARAHMA  
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311036_Annisa Nimasturna.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311036_Nimas.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** ANNISA NIMASTURNA MEYSARAHMA
 * **NIM:** 264311036
 * **TTL:** KOTA MADIUN, 07 MEI 2007
@@ -400,7 +400,7 @@
 * **Fun Fact:** drakor addict 
 
 ### [37] 264311037 – ANASTASYA SILVIA MONICA 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311037_Anastasya.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311037_Anatasya.jpg alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** ANASTASYA SILVIA MONICA
 * **NIM:** 264311037
 * **TTL:** Kota Magetan, 5 Juni 2008
@@ -422,7 +422,7 @@
 * **Fun Fact:** GA SUKA NGOMONG KASAR
 
 ### [39] 264311039 – DEWI WASILATUL KHOIRIYAH  
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311039_Dewi Wasilatul.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311039_Lala.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** DEWI WASILATUL KHOIRIYAH
 * **NIM:** 264311039
 * **TTL:** SIDOARJO, 21 NOVEMBER 2007
@@ -432,17 +432,16 @@
 * **Asal Sekolah:** SMKS SENOPATI
 * **Fun Fact:** Hobi Turu
 
-### [40] 264311041 – FAUZAN WISAM FALAHUL BASHIROH
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311041_Fauzan.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
-* **Nama Lengkap:** FAUZAN WISAM FALAHUL BASHIROH
-* **NIM:** 264311041
-* **TTL:** NGAWI, 01 SEPTEMBER 2007
-* **Nomer Handphone:** 085648266313
+### [40] 264311041 – FAIRUZ NADHIR RAHMAD
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* **Nama Lengkap:** FAIRUZ NADHIR RAHMAD
+* **NIM:** 264311040
+* **TTL:** MADIUN, 08 MEI 2007
+* **Nomer Handphone:** 08976381168
 * **Nama Kelompok:** RAILS
-* **Asal Daerah:** NGAWI
-* **Asal Sekolah:** SMAN 1 NGAWI
-* **Fun Fact:** jadi backburner
-
+* **Asal Daerah:** MADIUN
+* **Asal Sekolah:** SMAAN 2 MADIUN
+* **Fun Fact:**males error
 ### [41] 264311042 – GADING FANDY RAYA
 * <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311042_Gading.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** GADING FANDY RAYA
@@ -455,7 +454,7 @@
 * **Fun Fact:** -
 
 ### [42] 264311043 – GLENDY DEVANNO ARDIANSYAH PUTRA
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311043_Glendy.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311043_Glendy.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
 * **NIM:** 264311043
 * **TTL:** PONOROGO, 25 OKTOBER 2007
@@ -466,7 +465,7 @@
 * **Fun Fact:** Anda kenal saya tau sendiri
 
 ### [43] 264311044 – HEKSA ABDILLAH AL GHOFAR
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311044_Heksa.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311044_heksa.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** HEKSA ABDILLAH AL GHOFAR
 * **NIM:** 264311044
 * **TTL:** BREBES,08 APRIL 2008
@@ -477,7 +476,7 @@
 * **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
 ### [44] 264311045 – KEYLILA EDENIA VINCA SUSANTO   
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311045_Keylila.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311045_Keylila.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
 * **NIM:** 264311045
 * **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
@@ -488,7 +487,7 @@
 * **Fun Fact:** Feminist
 
 ### [45] 264311046 – MOCH KEVIN NAFIZ ALFA RIZAL
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311046_Kevin.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311046_kevin.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** MOCH KEVIN NAFIZ ALFA RIZAL
 * **NIM:** 264311046
 * **TTL:** KOTA MADIUN, 06 MARET 2007
@@ -499,7 +498,7 @@
 * **Fun Fact:** Berani Beda
 
 ### [46] 264311047 – MOHAMAD FATIR
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311047_Fatir.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311047_Fatir.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** MOHAMAD FATIR
 * **NIM:** 264311047
 * **TTL:** MADIUN, 22 MEI 2007
@@ -510,7 +509,7 @@
 * **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### [47] 264311048 – Muhammad Amirul Hafidz 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311048_Hapiz.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311048_Hafidz.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** Muhammad Amirul Hafidz 
 * **NIM:** 264311048
 * **TTL:** PONOROGO, 06 APRIL 2007
@@ -521,7 +520,7 @@
 * **Fun Fact:** awas ya ITS tahun depan
 
 ### [48] 264311049 – MUHAMMAD MAHLAYAN 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311049_Mahlayan.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311049_Mahlayan.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** MUHAMMAD MAHLAYAN
 * **NIM:** 264311049
 * **TTL:** Magetan, 1 januari 2007
@@ -532,7 +531,7 @@
 * **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
 
 ### [49] 264311050 – NADILA WULANSARI 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311050_Nadila.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311050_Nadila.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** NADILA WULANSARI
 * **NIM:** 264311050
 * **TTL:** NGAWI, 23 Mei 2007
@@ -543,7 +542,7 @@
 * **Fun Fact:** Gabut pengen ngopi 
 
 ### [50] 264311051 – Nazhwa Al Karana Putri  
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311051_Nazhwa.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311051_Nazhwa.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** Nazhwa Al Karana Putri
 * **NIM:** 264311051
 * **TTL:** NGAWI, 28 Desember 2008
@@ -554,7 +553,7 @@
 * **Fun Fact:** suka makan tapi malas ngunyah 
 
 ### [51] 264311052 – NAZRIL DESTA ADHANDA
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311052_Nazril.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311052_Nazril.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** NAZRIL DESTA ADHANDA
 * **NIM:** 264311052
 * **TTL:** MADIUN, 20 DESEMBER 2007
@@ -565,7 +564,7 @@
 * **Fun Fact:** rispek bgtt
 
 ### [52] 264311053 – NILA AYUNISA  
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311053_Nila.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311053_Nila.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** NILA AYUNISA
 * **NIM:** 264311053
 * **TTL:** MADIUN, 01 JUNI 2007
@@ -576,7 +575,7 @@
 * **Fun Fact:** Suka Ngopi
 
 ### [53] 264311054 – Panji Yuwono Wijoyo
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311054_Panji.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311054_Panji.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** Panji Yuwono Wijoyo
 * **NIM:** 264311054
 * **TTL:** MADIUN, 22 FEBRUARI 2008
@@ -587,7 +586,7 @@
 * **Fun Fact:** “Hei!! Antek-Antek Feodalis 🫵!!!”
 
 ### [54] 264311055 – RAIZZAN ULAYYA TAQQI 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311055_Raizzan.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311055_raizzan.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** RAIZZAN ULAYYA TAQQI 
 * **NIM:** 264311055
 * **TTL:** NGAWI, 01 OKTOBER 2007
@@ -598,7 +597,7 @@
 * **Fun Fact:** gak suka makan pedas
 
 ### [55] 264311056 – RESTU PRAYOGA
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311056_Restu.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311056_Restu.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** RESTU PRAYOGA
 * **NIM:** 264311056
 * **TTL:** PONOROGO, 19 JANUARI 2008
@@ -620,7 +619,7 @@
 * **Fun Fact:** pecandu kopi akut
 
 ### [57] 264311058 – Sakhiya Azam Khoirunni’am 
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311058_Azam.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311058_Azam.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** Sakhiya Azam Khoirunni’am 
 * **NIM:** 264311058
 * **TTL:** PONOROGO, 09 APRIL 2007
@@ -631,7 +630,7 @@
 * **Fun Fact:** Fans Madrid
 
 ### [58] 264311059 – SINARA ENDRYA ALNEGAR
-* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311059_Sinara.jpeg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
+* <img src=”assets/MAHASISWA_BARU/Kelas_1B/264311059_Sinara.jpg” alt=”Description” style=”object-fit:cover” width=”300px” height=”300px”>
 * **Nama Lengkap:** SINARA ENDRYA ALNEGAR
 * **NIM:** 264311059
 * **TTL:** PONOROGO, 9 JUNI 2007
