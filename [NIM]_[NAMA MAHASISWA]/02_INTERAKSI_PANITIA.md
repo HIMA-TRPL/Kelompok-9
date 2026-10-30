@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - SEPTIAN ANGGA SAPUTRA
-* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER_SEPTIAN ANGGA.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** SEPTIAN ANGGA SAPUTRA
 * **Jabatan:** VOLUNTEER
 * **TTL:** PONOROGO, 12 SEPTEMBER 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - INDAH AYU ASTUTI
-* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.jpg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER_INDAH AYU ASTUTI.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** INDAH AYU ASTUTI
 * **Jabatan:** VOLUNTEER
 * **TTL:** PONOROGO, 27 DESEMBER 2006
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - KUNNI SOFA RAHMAYANI
-* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER_KUNNI SOFA RAHMAYANI.jpeg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** KUNNI SOFA RAHMAYANI
 * **Jabatan:** VOLUNTEER
 * **TTL:** MADIUN, 04 JULI 2006
