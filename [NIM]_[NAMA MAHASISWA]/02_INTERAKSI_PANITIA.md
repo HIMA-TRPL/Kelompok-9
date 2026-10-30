@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - [MUHAMMAD AKBAR FADILAH]
-* <img src="assets/PANITIA/BPH/BPH- [MUHAMMAD AKBAR FADILAH] KETUA.jpeg" alt="MUHAMMAD AKBAR FADILAH" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/BPH/BPH-%20%5BMUHAMMAD%20AKBAR%20FADILAH%5D%20KETUA.jpeg" alt="MUHAMMAD AKBAR FADILAH" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** MUHAMMAD AKBAR FADILAH
 * **Jabatan:** Ketua Umum
 * **TTL:** Banjarmasin, 17 Juli 2006
@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [MUHAMMAD ADAM AL-KIDRI]
-* <img src="assets/PANITIA/BPH/BPH - [MUHAMMAD ADAM AL-KIDRI] WAKIL.jpeg" alt="MUHAMMAD ADAM AL-KIDRI" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/BPH/BPH%20-%20%5BMUHAMMAD%20ADAM%20AL-KIDRI%5D%20WAKIL.jpeg" alt="MUHAMMAD ADAM AL-KIDRI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** MUHAMMAD ADAM AL-KIDRI
 * **Jabatan:** Wakil Ketua 
 * **TTL:** Magetan, 08 September 2005
@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [FATHUR ROSHIN HADDINANTA]
-* <img src="assets/PANITIA/BPH/BPH - [FATHUR ROSHIN HADDINANTA] SEKRE 1.jpeg" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/BPH/BPH%20-%20%5BFATHUR%20ROSHIN%20HADDINANTA%5D%20SEKRE%201.jpeg" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover;" width="300px"> 
 * **Nama Panitia:** FATHUR ROSHIN HADDINANTA
 * **Jabatan:** SEKRETARIS 1
 * **TTL:** Tulungagung, 21 September 2005
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - [NAILA ZAHRA YASMINE]
-* <img src="assets/PANITIA/BPH/BPH - [NAILA ZAHRA YASMINE] SEKRE 2.jpeg" alt="NAILA ZAHRA YASMINE" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/BPH/BPH%20-%20%5BNAILA%20ZAHRA%20YASMINE%5D%20SEKRE%202.jpeg" alt="NAILA ZAHRA YASMINE" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** NAILA ZAHRA YASMINE
 * **Jabatan:** SEKRETARIS 2
 * **TTL:** Madiun, 09 Oktober 2006
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - [ALIVIA RIZKA WARDANI]
-*<img src="assets/PANITIA/BPH/BPH - [ALIVIA RIZKA WARDANI] BEND 1.jpeg" alt="ALIVIA RIZKA WARDANI" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/BPH/BPH%20-%20%5BALIVIA%20RIZKA%20WARDANI%5D%20BEND%201.jpeg" alt="ALIVIA RIZKA WARDANI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** ALIVIA RIZKA WARDANI
 * **Jabatan:** BENDAHARA 1
 * **TTL:** Ngawi, 12 September 2007
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [DHEA NOVIKA]
-*<img src="assets/PANITIA/BPH/BPH - [DHEA NOVIKA] BEND 2.jpeg" alt="DHEA NOVIKA" style="object-fit:cover;" width="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/BPH/BPH%20-%20%5BDHEA%20NOVIKA%5D%20BEND%202.jpeg" alt="DHEA NOVIKA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** DHEA NOVIKA
 * **Jabatan:** BENDAHARA 2
 * **TTL:** Madiun, 13 November 2006
