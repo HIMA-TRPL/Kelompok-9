@@ -169,7 +169,7 @@
 
 
 ### [22] PSDM - AZZA AULIYAUL F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/AZZA%20AULIYAUL%20F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** AZZA AULIYAUL F.
 * **Jabatan:**  Anggota PSDM
 * **TTL:**  Madiun, 19 November 2005
