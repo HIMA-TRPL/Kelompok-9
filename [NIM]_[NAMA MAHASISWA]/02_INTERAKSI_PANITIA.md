@@ -4,37 +4,63 @@
 
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
-### [01] BPH - [NAMA_PANITIA_01]
+### [05] BPH - ALIVIA RIZKA WARDANI
 * <img src="assets/PANITIA/BPH/ALIVIA RIZKA WARDANI.jpeg" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_01]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_01]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** ALIVIA RIZKA WARDANI
+* **Jabatan:** BENDAHARA 1
+* **TTL:** NGAWI, 12 SEPTEMBER 2007
+* **Nomer Handphone:** 08819699823
+* **Username GitHub:** @aliviarizz
+* **Asal Daerah:** NGAWI
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
-### [02] BPH - [NAMA_PANITIA_02]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_02]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_02]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+### [01] BPH - MUHAMMAD AKBAR FADILAH
+* <img src="assets/PANITIA/BPH/MUHAMMAD AKBAR FADILAH.jpeg" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** MUHAMMAD AKBAR FADILAH
+* **Jabatan:** KETUA UMUM
+* **TTL:** BANJARMASIN, 17 JULI 2006
+* **Nomer Handphone:** 082336825955
+* **Username GitHub:** @akbrvdv
+* **Asal Daerah:** NGAWI
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
-### [03] BPH - [NAMA_PANITIA_03]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_03]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_03]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+### [02] BPH - MUHAMMAD ADAM AL-KIDRI
+* <img src="assets/PANITIA/BPH/MUHAMMAD ADAM AL-KIDRI.jpeg" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** MUHAMMAD ADAM AL-KIDRI
+* **Jabatan:** WAKIL KETUA UMUM HIMA TRPL 2026
+* **TTL:** MAGETAN, 08 SEPTEMBER 2005
+* **Nomer Handphone:** 087756523263
+* **Username GitHub:** @Adamlki
+* **Asal Daerah:** MAGETAN
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
+### [03] BPH - FATHUR ROSHIN HADDINANTA
+* <img src="assets/PANITIA/BPH/FATHUR ROSHIN HADDINATA.jpeg" alt="Fathur Roshin Haddinata" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** FATHUR ROSHIN HADDINANTA
+* **Jabatan:** SEKRETARIS 1
+* **TTL:** TULUNGAGUNG, 21 SEPTEMBER 2005
+* **Nomer Handphone:** 085732860583
+* **Username GitHub:** @fathursn21
+* **Asal Daerah:** TULUNGAGUNG
 ---
+
+### [04] BPH - NAILA ZAHRA YASMINE
+* <img src="assets/PANITIA/BPH/NAILA ZAHRA YASMINE.jpeg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** NAILA ZAHRA YASMINE
+* **Jabatan:** SEKRETARIS 2
+* **TTL:** MADIUN, 09 OKTOBER 2006
+* **Nomer Handphone:** 082143238277
+* **Username GitHub:** @nailazahraysmn
+* **Asal Daerah:** DAGANGAN, KAB. MADIUN
+
+### [06] BPH - DHEA NOVIKA
+* 
+* **Nama Panitia:** DHEA NOVIKA
+* **Jabatan:** BENDAHARA 2
+* **TTL:** MADIUN, 13 NOVEMBER 2006
+* **Nomer Handphone:** 085648516993
+* **Username GitHub:** @dhean0v
+* **Asal Daerah:** MADIUN
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
