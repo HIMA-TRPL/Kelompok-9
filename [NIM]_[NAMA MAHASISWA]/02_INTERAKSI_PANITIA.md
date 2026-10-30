@@ -70,7 +70,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - [ALVIAN_DWIKY_PUTRA_SANTOSO]
-* <img src="assets/PANITIA/Dagri/DAGRI_ALVIAN DWIKY PUTRA S_.jpg" alt="ALVIAN DWIKY PUTRA_.S" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Dagri/Dagri%20-%20%5BALVIAN%20DWIKY%20PUTRA%20SANTOSO%5D%20KOORDINATOR.jpeg" alt="ALVIAN DWIKY PUTRA SANTOSO" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [ALVIAN_DWIKY_PUTRA_SANTOSO]
 * **Jabatan:** [KOORDINATOR_DAGRI]
 * **TTL:** [PONOROGO,_02_DESEMBER_2005]
@@ -80,7 +80,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [DZAKWAN_DARIS_FAKHRUDDIN]
-* <img src="assets/PANITIA/Dagri/DAGRI_DZAKWAN DARIS FAKHRUDDIN.jpg" alt="DZAKWAN DARIS FAKHRUDDIN" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Dagri/Dagri%20-%20%5BDZAKWAN%20DARIS%20FAKHRUDDIN%5D%20KOMDIS.jpeg" alt="DZAKWAN DARIS FAKHRUDDIN" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [DZAKWAN_DARIS_FAKHRUDDIN]
 * **Jabatan:** [ANGGOTA_DAGRI]
 * **TTL:** [MADIUN,_13_APRIL_2006]
@@ -90,7 +90,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - [FIRDAUS_ILHAM_F.]
-* <img src="assets/PANITIA/Dagri/DAGRI_FIRDAUS ILHAM F_.jpg" alt="FIRDAUS ILHAM F_" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Dagri/Dagri%20-%20%5BFIRDAUS%20ILHAM%20F.%5D%20ANGGOTA.jpeg" alt="FIRDAUS ILHAM F." style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [FIRDAUS_ILHAM_F.]
 * **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN,_01_JANUARI_2007]
@@ -100,7 +100,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - [BANGKIT_CAHYA_LINUWIH]
-* <img src="assets/PANITIA/Dagri/DAGRI_BANGKIT CAHYA LINUWIH.jpg" alt="BANGKIT CAHYA LINUWIH" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Dagri/Dagri%20-%20%5BBANGKIT%20CAHYA%20LINUWIH%5D%20KOMDIS.jpeg" alt="BANGKIT CAHYA LINUWIH" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [BANGKIT_CAHYA_LINUWIH]
 * **Jabatan:** [STAFF_MUDA_DAGRI]
 * **TTL:** [PACITAN,_02_APRIL_2006]
@@ -110,7 +110,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - [NADIA_TIFARA_SIDIQ]
-* <img src="assets/PANITIA/Dagri/DAGRI_NADIA TIFARA SIDIQ.jpg" alt="NADIA TIFARA SIDIQ" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Dagri/Dagri%20-%20%5BNADIA%20TIFARA%20SIDIQ%5D%20SIE%20ACARA.jpeg" alt="NADIA TIFARA SIDIQ" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [NADIA_TIFARA_SIDIQ]
 * **Jabatan:** [SIE_ACARA]
 * **TTL:** [MADIUN,_27_DESEMBER_2005]
@@ -124,7 +124,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - [ADAM_NOVERIAN]
-* <img src="assets/PANITIA/Humas/Humas - Adam Noverian.png" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/HUMAS/HUMAS_ADAM%20NOVERIAN.jpeg" alt="HUMAS ADAM NOVERIAN" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** [ADAM_NOVERIAN]
 * **Jabatan:** [KETUA_HUMAS]
 * **TTL:** [SURABAYA,_08_NOVEMBER_2005]
@@ -134,7 +134,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..png" alt="Muhammad Raufa Hafid Widodo" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/HUMAS/HUMAS_MUHAMMAD%20RAUFA%20HAFID.jpeg" alt="HUMAS MUHAMMAD RAUFA HAFID" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Muhammad Raufa Hafid Widodo
 * **Jabatan:** Anggota Humas
 * **TTL:** Madiun, 26 September 2005
@@ -144,7 +144,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - Alvina Nur Laila Anggraini
-* <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.png" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/HUMAS/HUMAAS_ALVINA%20NUR%20LAILA.jpeg" alt="HUMAAS ALVINA NUR LAILA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Alvina Nur Laila Anggraini
 * **Jabatan:** Anggota Humas
 * **TTL:** Surabaya, 31 Maret 2005
@@ -154,7 +154,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/Humas/HUMAS_CRISTIAN REYNALDI.jpg" alt="CRISTIAN REYNALDI" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/HUMAS/HUMAS_CRISTIAN%20REYNALDI.jpeg" alt="HUMAS CRISTIAN REYNALDI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Cristian Reynaldi
 * **Jabatan:** Perkap
 * **TTL:** Jakarta, 18 Januari 2007
@@ -164,7 +164,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.png" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/HUMAS/HUMAS_ATHA%20ARYASATYA.jpeg" alt="HUMAS ATHA ARYASATYA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Atha Aryasatya
 * **Jabatan:** Staff Humas
 * **TTL:** Madiun, 22 Februari 2005
@@ -178,7 +178,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - Riyan Zakaria Zulkarnain
-* <img src="assets/PANITIA/PSDM/PSDM_RIYAN ZAKARIA ZULKARNAIN.jpg" alt="RIYAN ZAKARIA ZULKARNAIN" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM%20-%20%5BRIYAN%20ZAKARIA%20ZULKARNAIN%5D%20KOORDINASI.jpeg" alt="PSDM RIYAN ZAKARIA ZULKARNAIN" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Riyan Zakaria Zulkarnain
 * **Jabatan:** Koordinator PSDM
 * **TTL:** Ponorogo, 07 September 2005
@@ -188,7 +188,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - Mohammad Dani Taufiqurrohman
-* <img src="assets/PANITIA/PSDM/PSDM_MOHAMMAD DANI T_.jpg" alt="MOHAMMAD DANI T_" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_MOHAMMAD%20DANI.jpeg" alt="PSDM MOHAMMAD DANI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Mohammad Dani Taufiqurrohman
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
@@ -208,7 +208,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
-* <img src="assets/PANITIA/PSDM/PSDM_ABDUL AZIZ MUSHTHOFA.jpg" alt="ABDUL AZIZ MUSHTHOFA" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_ABDUL%20AZIZ%20MUSHTHOFA.jpeg" alt="PSDM ABDUL AZIZ MUSHTHOFA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda PSDM / Ketupel
 * **TTL:** Tulungagung, 13 April 2006
@@ -218,7 +218,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Tiara Maya Lestari
-* <img src="assets/PANITIA/PSDM/PSDM_TIARA MAYA LESTARI.jpg" alt="TIARA MAYA LESTARI" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/PSDM/PSDM_TIARA%20MAYA%20LESTARI.jpeg" alt="PSDM TIARA MAYA LESTARI" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Tiara Maya Lestari
 * **Jabatan:** Anggota PSDM
 * **TTL:** Nganjuk, 11 Maret 2006
@@ -242,7 +242,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/SOSMA_ANGGI WAHYU SAPUTRA.jpg" alt="ANGGI WAHYU SAPUTRA" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Sosma/SOSMA_ANGGI%20WAHYU%20SAPUTRA.jpeg" alt="SOSMA ANGGI WAHYU SAPUTRA" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koordinator Sosma
 * **TTL:** Tulungagung, 14 Juni 2005
@@ -262,7 +262,7 @@
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
-* <img src="assets/PANITIA/Sosma/SOSMA_EDWIN NUR CAHYO.jpg" alt="EDWIN NUR CAHYO" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Sosma/SOSMA_EDWIN%20NURCAHYO.jpeg" alt="SOSMA EDWIN NURCAHYO" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
 * **Jabatan:** Anggota Sosma
 * **TTL:** Dagangan, Madiun, 01 November 2006
@@ -272,7 +272,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - Muhsyam Fahriel S.
-* <img src="assets/PANITIA/Sosma/SOSMA_MUHSYAM FAHRIEL S.jpg" alt="MUHSYAM FAHRIEL." style="object-fit:cover" width="300px" height="300px">
+* <<img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Sosma/SOSMA_MUSYAM%20FAHRIEL.jpeg" alt="SOSMA MUSYAM FAHRIEL" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Muhsyam Fahriel S.
 * **Jabatan:** Anggota Sosma
 * **TTL:** Ngawi, 25 September 2005
@@ -282,7 +282,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] Sosma - Lutfilah Ahmad
-* <img src="assets/PANITIA/Sosma/SOSMA_LUTFILAH AHMAD.jpg" alt="LUTFILAH AHMAD" style="object-fit:cover" width="300px" height="300px">
+* <img src="https://raw.githubusercontent.com/HIMA-TRPL/Kelompok-9/264311037_AnatasyaSilviaMonica/%5BNIM%5D_%5BNAMA%20MAHASISWA%5D/assets/PANITIA/Sosma/SOSMA_LUTFILAH%20AHMAD.jpeg" alt="SOSMA LUTFILAH AHMAD" style="object-fit:cover;" width="300px">
 * **Nama Panitia:** Lutfilah Ahmad
 * **Jabatan:** Staff Muda
 * **TTL:** Magetan, 30 Januari 2007
